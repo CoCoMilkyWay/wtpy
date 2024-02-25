@@ -58,6 +58,9 @@ class DHTushare(BaseDataHelper):
             kwargs.pop("use_pro")
 
         self.api = ts.pro_api(**kwargs)
+        # added by chuyin
+        self.api._DataApi__http_url = 'http://tsapi.majors.ltd:7000'
+
         self.isAuthed = True
         logging.info(f"Tushare has been authorized, use_pro is {'enabled' if self.use_pro else 'disabled'}.")
 
