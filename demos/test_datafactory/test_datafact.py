@@ -4,12 +4,12 @@ import os
 from wtpy.WtCoreDefs import WTSBarStruct
 from wtpy.apps.datahelper import DHFactory as DHF
 
-hlper = DHF.createHelper("baostock")
-hlper.auth()
+# hlper = DHF.createHelper("baostock")
+# hlper.auth()
 
 # tushare
-# hlper = DHF.createHelper("tushare")
-# hlper.auth(**{"token":"xxxxxxxxxxx", "use_pro":True})
+hlper = DHF.createHelper("tushare")
+hlper.auth(**{"token":'20231208200557-eb280087-82b0-4ac9-8638-4f96f8f4d14c', "use_pro":True})
 
 # rqdata
 # hlper = DHF.createHelper("rqdata")
@@ -27,8 +27,8 @@ hlper.dmpBarsToFile(folder='./', codes=["SZSE.399005","SZSE.399006","SZSE.399303
 # hlper.dmpAdjFactorsToFile(codes=["SSE.600000",'SZSE.000001'], filename="./adjfactors.json")
 
 # 初始化数据库
-# dbHelper = MysqlHelper("127.0.0.1","root","","test", 5306)
-# dbHelper.initDB()
+dbHelper = MysqlHelper("localhost","root","","test", 5306)
+dbHelper.initDB()
 
 # 将数据下载到数据库
 # hlper.dmpBarsToDB(dbHelper, codes=["CFFEX.IF.2103"], period="day")
@@ -60,4 +60,4 @@ def on_bars_block(exchg:str, stdCode:str, firstBar:POINTER(WTSBarStruct), count:
     dtHelper.store_bars(filename, firstBar, count, period)
     pass
 
-# hlper.dmpBars(codes=["CFFEX.IF.2103"], cb=on_bars_block, start_date=datetime.datetime(2020,12,1), end_date=datetime.datetime(2021,3,16), period="min5")
+hlper.dmpBars(codes=["CFFEX.IF.2103"], cb=on_bars_block, start_date=datetime.datetime(2020,12,1), end_date=datetime.datetime(2021,3,16), period="min5")
