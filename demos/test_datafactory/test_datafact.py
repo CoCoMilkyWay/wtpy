@@ -5,7 +5,7 @@ from wtpy.WtCoreDefs import WTSBarStruct
 from wtpy.apps.datahelper import DHFactory as DHF
 from wtpy.apps.datahelper.db import MysqlHelper
 
-asset = ['SSE.600001']
+asset = ['SSE.ETF.510300']
 
 # hlper = DHF.createHelper("baostock")
 # hlper.auth()
@@ -19,15 +19,15 @@ hlper.auth(**{"token":'20231208200557-eb280087-82b0-4ac9-8638-4f96f8f4d14c', "us
 # hlper.auth(**{"username":"00000000", "password":"0000000"})
 
 # 落地股票列表
-hlper.dmpCodeListToFile("stocks.json")
+hlper.dmpCodeListToFile("../common/stocks.json")
 
 # 下载K线数据
 # hlper.dmpBarsToFile(folder='./', codes=asset, period='min1')
 # hlper.dmpBarsToFile(folder='./', codes=asset, period='min5')
-hlper.dmpBarsToFile(folder='./', codes=asset, period='day')
+hlper.dmpBarsToFile(folder='../storage/csv/', codes=asset, period='day')
 
 # 下载复权因子
-hlper.dmpAdjFactorsToFile(codes=asset, filename="./adjfactors.json")
+hlper.dmpAdjFactorsToFile(codes=asset, filename="../common/adjfactors.json")
 
 # 初始化数据库
 dbHelper = MysqlHelper.MysqlHelper("localhost","root","bj721006","market", 3306)
@@ -39,7 +39,6 @@ hlper.dmpAdjFactorsToDB(dbHelper, codes=asset)
 
 # 将数据直接落地成dsb
 def on_bars_block(exchg:str, stdCode:str, firstBar:POINTER(WTSBarStruct), count:int, period:str):
-    print(exchg, stdCode, firstBar, count, period)
     from wtpy.wrapper import WtDataHelper
     dtHelper = WtDataHelper()
     if stdCode[-4:] == '.HOT':
@@ -64,4 +63,7 @@ def on_bars_block(exchg:str, stdCode:str, firstBar:POINTER(WTSBarStruct), count:
     dtHelper.store_bars(filename, firstBar, count, period)
     pass
 
-hlper.dmpBars(codes=asset, cb=on_bars_block, start_date=datetime.datetime(2000,12,1), end_date=datetime.datetime.now(), period="day")
+hlper.dmpBars(codes=asset, cb=on_bars_block, 
+              start_date=datetime.datetime(1990,1,1), 
+              end_date=datetime.datetime.now(), 
+              period="day")
