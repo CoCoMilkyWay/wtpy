@@ -3,7 +3,6 @@ from wtpy.apps import WtBtAnalyst
 
 from wtpy.monitor import WtBtSnooper
 from wtpy import WtDtServo
-
 def testBtSnooper():    
 
     dtServo = WtDtServo()
