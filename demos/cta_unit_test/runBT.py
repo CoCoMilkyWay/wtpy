@@ -8,6 +8,20 @@ from StraCtaUnitTest import StraCtaUnitTest
 
 # from Strategies.XIM import XIM
 
+from wtpy.monitor import WtBtSnooper
+from wtpy import WtDtServo
+def testBtSnooper():    
+
+    dtServo = WtDtServo()
+    # 这里配置的是基础数据文件目录
+    dtServo.setBasefiles(folder='../common/')
+
+    # 这里配置的是datakit落地的数据目录
+    dtServo.setStorage(path='../storage/')
+
+    snooper = WtBtSnooper(dtServo)
+    snooper.run_as_server(port=8081, host='localhost')
+
 if __name__ == "__main__":
     #创建一个运行环境，并加入策略
     engine = WtBtEngine(EngineType.ET_CTA)
@@ -24,7 +38,8 @@ if __name__ == "__main__":
 
     analyst = WtBtAnalyst()
     analyst.add_strategy("pydt_IF", folder="./outputs_bt/", init_capital=500000, rf=0.02, annual_trading_days=240)
-    analyst.run()
-
+    analyst.run_flat()
+    
+    testBtSnooper()
     kw = input('press any key to exit\n')
     engine.release_backtest()
