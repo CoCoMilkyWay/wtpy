@@ -3,49 +3,49 @@
         "000001": {
             "code": "000001",
             "exchg": "SSE",
-            "name": "上证指数全收益",
+            "name": "上证综合指数",
             "product": "IDX"
         },
         "000002": {
             "code": "000002",
             "exchg": "SSE",
-            "name": "A股指数",
+            "name": "上证A股指数",
             "product": "IDX"
         },
         "000003": {
             "code": "000003",
             "exchg": "SSE",
-            "name": "B股指数",
+            "name": "上证B股指数",
             "product": "IDX"
         },
         "000004": {
             "code": "000004",
             "exchg": "SSE",
-            "name": "工业指数",
+            "name": "上证工业类指数",
             "product": "IDX"
         },
         "000005": {
             "code": "000005",
             "exchg": "SSE",
-            "name": "商业指数",
+            "name": "上证商业类指数",
             "product": "IDX"
         },
         "000006": {
             "code": "000006",
             "exchg": "SSE",
-            "name": "地产指数",
+            "name": "上证房地产指数",
             "product": "IDX"
         },
         "000007": {
             "code": "000007",
             "exchg": "SSE",
-            "name": "公用指数",
+            "name": "上证公用事业指数",
             "product": "IDX"
         },
         "000008": {
             "code": "000008",
             "exchg": "SSE",
-            "name": "综合指数",
+            "name": "上证综合业类指数",
             "product": "IDX"
         },
         "000009": {
@@ -57,163 +57,187 @@
         "000010": {
             "code": "000010",
             "exchg": "SSE",
-            "name": "上证180",
+            "name": "上证180指数",
+            "product": "IDX"
+        },
+        "000011": {
+            "code": "000011",
+            "exchg": "SSE",
+            "name": "上证基金指数",
+            "product": "IDX"
+        },
+        "000012": {
+            "code": "000012",
+            "exchg": "SSE",
+            "name": "上证国债指数",
+            "product": "IDX"
+        },
+        "000013": {
+            "code": "000013",
+            "exchg": "SSE",
+            "name": "上证企业债指数",
             "product": "IDX"
         },
         "000015": {
             "code": "000015",
             "exchg": "SSE",
-            "name": "红利指数",
+            "name": "上证红利指数",
             "product": "IDX"
         },
         "000016": {
             "code": "000016",
             "exchg": "SSE",
-            "name": "上证50",
+            "name": "上证50指数",
             "product": "IDX"
         },
         "000017": {
             "code": "000017",
             "exchg": "SSE",
-            "name": "新综指",
+            "name": "新上证综指",
             "product": "IDX"
         },
         "000018": {
             "code": "000018",
             "exchg": "SSE",
-            "name": "180金融",
+            "name": "上证180金融股指数",
             "product": "IDX"
         },
         "000019": {
             "code": "000019",
             "exchg": "SSE",
-            "name": "治理指数",
+            "name": "上证公司治理指数",
             "product": "IDX"
         },
         "000020": {
             "code": "000020",
             "exchg": "SSE",
-            "name": "中型综指",
+            "name": "上证中型企业综合指数",
             "product": "IDX"
         },
         "000021": {
             "code": "000021",
             "exchg": "SSE",
-            "name": "180治理",
+            "name": "上证180公司治理指数",
+            "product": "IDX"
+        },
+        "000022": {
+            "code": "000022",
+            "exchg": "SSE",
+            "name": "沪公司债",
             "product": "IDX"
         },
         "000025": {
             "code": "000025",
             "exchg": "SSE",
-            "name": "180基建",
+            "name": "上证180基建指数",
             "product": "IDX"
         },
         "000026": {
             "code": "000026",
             "exchg": "SSE",
-            "name": "180资源",
+            "name": "上证180资源指数",
             "product": "IDX"
         },
         "000027": {
             "code": "000027",
             "exchg": "SSE",
-            "name": "180运输",
+            "name": "上证180交通运输指数",
             "product": "IDX"
         },
         "000028": {
             "code": "000028",
             "exchg": "SSE",
-            "name": "180成长",
+            "name": "上证180成长指数",
             "product": "IDX"
         },
         "000029": {
             "code": "000029",
             "exchg": "SSE",
-            "name": "180价值",
+            "name": "上证180价值指数",
             "product": "IDX"
         },
         "000030": {
             "code": "000030",
             "exchg": "SSE",
-            "name": "180R成长",
+            "name": "上证180相对成长指数",
             "product": "IDX"
         },
         "000031": {
             "code": "000031",
             "exchg": "SSE",
-            "name": "180R价值",
+            "name": "上证180相对价值指数",
             "product": "IDX"
         },
         "000032": {
             "code": "000032",
             "exchg": "SSE",
-            "name": "上证能源",
+            "name": "上证能源行业指数",
             "product": "IDX"
         },
         "000033": {
             "code": "000033",
             "exchg": "SSE",
-            "name": "上证材料",
+            "name": "上证原材料行业指数",
             "product": "IDX"
         },
         "000034": {
             "code": "000034",
             "exchg": "SSE",
-            "name": "上证工业",
+            "name": "上证工业行业指数",
             "product": "IDX"
         },
         "000035": {
             "code": "000035",
             "exchg": "SSE",
-            "name": "上证可选",
+            "name": "上证可选消费行业指数",
             "product": "IDX"
         },
         "000036": {
             "code": "000036",
             "exchg": "SSE",
-            "name": "上证消费",
+            "name": "上证主要消费行业指数",
             "product": "IDX"
         },
         "000037": {
             "code": "000037",
             "exchg": "SSE",
-            "name": "上证医药",
+            "name": "上证医药卫生行业指数",
             "product": "IDX"
         },
         "000038": {
             "code": "000038",
             "exchg": "SSE",
-            "name": "上证金融",
+            "name": "上证金融地产行业指数",
             "product": "IDX"
         },
         "000039": {
             "code": "000039",
             "exchg": "SSE",
-            "name": "上证信息",
+            "name": "上证信息技术行业指数",
             "product": "IDX"
         },
         "000040": {
             "code": "000040",
             "exchg": "SSE",
-            "name": "上证通信",
+            "name": "上证电信业务行业指数",
             "product": "IDX"
         },
         "000041": {
             "code": "000041",
             "exchg": "SSE",
-            "name": "上证公用",
+            "name": "上证公用事业行业指数",
             "product": "IDX"
         },
         "000042": {
             "code": "000042",
             "exchg": "SSE",
-            "name": "上证央企",
+            "name": "上证中央企业50指数",
             "product": "IDX"
         },
         "000043": {
             "code": "000043",
             "exchg": "SSE",
-            "name": "超大盘",
+            "name": "上证超级大盘指数",
             "product": "IDX"
         },
         "000044": {
@@ -282,12 +306,6 @@
             "name": "上证海外",
             "product": "IDX"
         },
-        "000055": {
-            "code": "000055",
-            "exchg": "SSE",
-            "name": "上证地企",
-            "product": "IDX"
-        },
         "000056": {
             "code": "000056",
             "exchg": "SSE",
@@ -316,6 +334,12 @@
             "code": "000060",
             "exchg": "SSE",
             "name": "全R价值",
+            "product": "IDX"
+        },
+        "000061": {
+            "code": "000061",
+            "exchg": "SSE",
+            "name": "沪企债30",
             "product": "IDX"
         },
         "000062": {
@@ -417,7 +441,7 @@
         "000078": {
             "code": "000078",
             "exchg": "SSE",
-            "name": "通信等权",
+            "name": "电信等权",
             "product": "IDX"
         },
         "000079": {
@@ -490,6 +514,12 @@
             "code": "000100",
             "exchg": "SSE",
             "name": "上证F500",
+            "product": "IDX"
+        },
+        "000101": {
+            "code": "000101",
+            "exchg": "SSE",
+            "name": "上证5年期信用债指数",
             "product": "IDX"
         },
         "000102": {
@@ -576,6 +606,12 @@
             "name": "380等权",
             "product": "IDX"
         },
+        "000116": {
+            "code": "000116",
+            "exchg": "SSE",
+            "name": "上证信用债100指数",
+            "product": "IDX"
+        },
         "000117": {
             "code": "000117",
             "exchg": "SSE",
@@ -609,25 +645,19 @@
         "000122": {
             "code": "000122",
             "exchg": "SSE",
-            "name": "上证农业",
+            "name": "上证农业主题指数",
             "product": "IDX"
         },
         "000123": {
             "code": "000123",
             "exchg": "SSE",
-            "name": "上证180动态",
-            "product": "IDX"
-        },
-        "000124": {
-            "code": "000124",
-            "exchg": "SSE",
-            "name": "100等权",
+            "name": "上证180动态指数",
             "product": "IDX"
         },
         "000125": {
             "code": "000125",
             "exchg": "SSE",
-            "name": "上证180稳定",
+            "name": "上证180稳定指数",
             "product": "IDX"
         },
         "000126": {
@@ -675,229 +705,145 @@
         "000134": {
             "code": "000134",
             "exchg": "SSE",
-            "name": "上证银行",
+            "name": "上证银行股指数",
             "product": "IDX"
         },
         "000135": {
             "code": "000135",
             "exchg": "SSE",
-            "name": "上证180高贝塔",
+            "name": "上证180高贝塔指数",
             "product": "IDX"
         },
         "000136": {
             "code": "000136",
             "exchg": "SSE",
-            "name": "上证180低贝塔",
+            "name": "上证180低贝塔指数",
             "product": "IDX"
         },
         "000137": {
             "code": "000137",
             "exchg": "SSE",
-            "name": "上证380高贝塔",
+            "name": "上证380高贝塔指数",
             "product": "IDX"
         },
         "000138": {
             "code": "000138",
             "exchg": "SSE",
-            "name": "上证380低贝塔",
+            "name": "上证380低贝塔指数",
+            "product": "IDX"
+        },
+        "000139": {
+            "code": "000139",
+            "exchg": "SSE",
+            "name": "上证可转换债券指数",
             "product": "IDX"
         },
         "000141": {
             "code": "000141",
             "exchg": "SSE",
-            "name": "上证380动态",
+            "name": "上证380动态指数",
             "product": "IDX"
         },
         "000142": {
             "code": "000142",
             "exchg": "SSE",
-            "name": "上证380稳定",
+            "name": "上证380稳定指数",
             "product": "IDX"
         },
         "000145": {
             "code": "000145",
             "exchg": "SSE",
-            "name": "优势资源",
+            "name": "上证优势资源产业指数",
             "product": "IDX"
         },
         "000146": {
             "code": "000146",
             "exchg": "SSE",
-            "name": "优势制造",
+            "name": "上证优势制造产业指数",
             "product": "IDX"
         },
         "000147": {
             "code": "000147",
             "exchg": "SSE",
-            "name": "优势消费",
+            "name": "上证优势消费产业指数",
             "product": "IDX"
         },
         "000148": {
             "code": "000148",
             "exchg": "SSE",
-            "name": "消费领先",
+            "name": "上证消费服务领先指数",
             "product": "IDX"
         },
         "000149": {
             "code": "000149",
             "exchg": "SSE",
-            "name": "上证180红利",
+            "name": "上证180红利指数",
             "product": "IDX"
         },
         "000150": {
             "code": "000150",
             "exchg": "SSE",
-            "name": "上证380红利",
+            "name": "上证380红利指数",
             "product": "IDX"
         },
         "000151": {
             "code": "000151",
             "exchg": "SSE",
-            "name": "上证国企红利",
+            "name": "上证国有企业红利指数",
             "product": "IDX"
         },
         "000152": {
             "code": "000152",
             "exchg": "SSE",
-            "name": "上证央企红利",
+            "name": "上证中央企业红利指数",
             "product": "IDX"
         },
         "000153": {
             "code": "000153",
             "exchg": "SSE",
-            "name": "上证民企红利",
+            "name": "上证民营企业红利指数",
             "product": "IDX"
         },
         "000155": {
             "code": "000155",
             "exchg": "SSE",
-            "name": "上证市值百强",
+            "name": "上证市值百强指数",
             "product": "IDX"
         },
         "000158": {
             "code": "000158",
             "exchg": "SSE",
-            "name": "上证环保",
+            "name": "上证环保产业指数",
             "product": "IDX"
         },
         "000159": {
             "code": "000159",
             "exchg": "SSE",
-            "name": "沪股通",
+            "name": "上证沪股通指数",
             "product": "IDX"
         },
         "000160": {
             "code": "000160",
             "exchg": "SSE",
-            "name": "沪新丝路",
+            "name": "上证一带一路主题指数",
             "product": "IDX"
         },
         "000161": {
             "code": "000161",
             "exchg": "SSE",
-            "name": "沪中国造",
+            "name": "上证中国制造主题指数",
             "product": "IDX"
         },
         "000162": {
             "code": "000162",
             "exchg": "SSE",
-            "name": "沪互联+",
-            "product": "IDX"
-        },
-        "000170": {
-            "code": "000170",
-            "exchg": "SSE",
-            "name": "50AH优选",
-            "product": "IDX"
-        },
-        "000188": {
-            "code": "000188",
-            "exchg": "SSE",
-            "name": "中国波指(退市)",
+            "name": "上证互联网+主题指数",
             "product": "IDX"
         },
         "000300": {
             "code": "000300",
             "exchg": "SSE",
-            "name": "沪深300",
-            "product": "IDX"
-        },
-        "000682": {
-            "code": "000682",
-            "exchg": "SSE",
-            "name": "科创信息",
-            "product": "IDX"
-        },
-        "000683": {
-            "code": "000683",
-            "exchg": "SSE",
-            "name": "科创生物净收益",
-            "product": "IDX"
-        },
-        "000685": {
-            "code": "000685",
-            "exchg": "SSE",
-            "name": "科创芯片净收益",
-            "product": "IDX"
-        },
-        "000687": {
-            "code": "000687",
-            "exchg": "SSE",
-            "name": "科创高装净收益",
-            "product": "IDX"
-        },
-        "000688": {
-            "code": "000688",
-            "exchg": "SSE",
-            "name": "科创50(全)",
-            "product": "IDX"
-        },
-        "000689": {
-            "code": "000689",
-            "exchg": "SSE",
-            "name": "科创材料净收益",
-            "product": "IDX"
-        },
-        "000690": {
-            "code": "000690",
-            "exchg": "SSE",
-            "name": "科创成长净收益",
-            "product": "IDX"
-        },
-        "000692": {
-            "code": "000692",
-            "exchg": "SSE",
-            "name": "科创新能净收益",
-            "product": "IDX"
-        },
-        "000693": {
-            "code": "000693",
-            "exchg": "SSE",
-            "name": "科创机械净收益",
-            "product": "IDX"
-        },
-        "000695": {
-            "code": "000695",
-            "exchg": "SSE",
-            "name": "科长三角净收益",
-            "product": "IDX"
-        },
-        "000697": {
-            "code": "000697",
-            "exchg": "SSE",
-            "name": "科大湾区净收益",
-            "product": "IDX"
-        },
-        "000698": {
-            "code": "000698",
-            "exchg": "SSE",
-            "name": "科创100(全)USD(CNH)",
-            "product": "IDX"
-        },
-        "000801": {
-            "code": "000801",
-            "exchg": "SSE",
-            "name": "资源80(SH)",
+            "name": "沪深300指数",
             "product": "IDX"
         },
         "000802": {
@@ -906,40 +852,28 @@
             "name": "500沪市",
             "product": "IDX"
         },
-        "000803": {
-            "code": "000803",
+        "000805": {
+            "code": "000805",
             "exchg": "SSE",
-            "name": "300波动(SH)",
+            "name": "A股资源",
             "product": "IDX"
         },
-        "000804": {
-            "code": "000804",
+        "000806": {
+            "code": "000806",
             "exchg": "SSE",
-            "name": "500波动(SH)",
+            "name": "消费服务",
             "product": "IDX"
         },
-        "000810": {
-            "code": "000810",
+        "000807": {
+            "code": "000807",
             "exchg": "SSE",
-            "name": "细分能源(SH)",
+            "name": "食品饮料",
             "product": "IDX"
         },
-        "000811": {
-            "code": "000811",
+        "000808": {
+            "code": "000808",
             "exchg": "SSE",
-            "name": "细分有色(SH)",
-            "product": "IDX"
-        },
-        "000812": {
-            "code": "000812",
-            "exchg": "SSE",
-            "name": "细分机械(SH)",
-            "product": "IDX"
-        },
-        "000813": {
-            "code": "000813",
-            "exchg": "SSE",
-            "name": "细分化工(SH)",
+            "name": "医药生物",
             "product": "IDX"
         },
         "000814": {
@@ -948,562 +882,370 @@
             "name": "细分医药",
             "product": "IDX"
         },
-        "000815": {
-            "code": "000815",
-            "exchg": "SSE",
-            "name": "细分食品(SH)",
-            "product": "IDX"
-        },
-        "000817": {
-            "code": "000817",
-            "exchg": "SSE",
-            "name": "兴证海西(退市)",
-            "product": "IDX"
-        },
-        "000818": {
-            "code": "000818",
-            "exchg": "SSE",
-            "name": "细分金融(SH)",
-            "product": "IDX"
-        },
         "000819": {
             "code": "000819",
             "exchg": "SSE",
             "name": "有色金属",
             "product": "IDX"
         },
-        "000820": {
-            "code": "000820",
-            "exchg": "SSE",
-            "name": "煤炭指数(SH)",
-            "product": "IDX"
-        },
-        "000822": {
-            "code": "000822",
-            "exchg": "SSE",
-            "name": "中证500红利(SH)",
-            "product": "IDX"
-        },
         "000823": {
             "code": "000823",
             "exchg": "SSE",
-            "name": "800有色",
-            "product": "IDX"
-        },
-        "000824": {
-            "code": "000824",
-            "exchg": "SSE",
-            "name": "中证国企红利(SH)",
-            "product": "IDX"
-        },
-        "000825": {
-            "code": "000825",
-            "exchg": "SSE",
-            "name": "中证央企红利(SH)",
-            "product": "IDX"
-        },
-        "000826": {
-            "code": "000826",
-            "exchg": "SSE",
-            "name": "中证民企红利(SH)",
+            "name": "中证800有色",
             "product": "IDX"
         },
         "000827": {
             "code": "000827",
             "exchg": "SSE",
-            "name": "中证环保",
+            "name": "中证环保产业指数",
             "product": "IDX"
         },
-        "000829": {
-            "code": "000829",
+        "000828": {
+            "code": "000828",
             "exchg": "SSE",
-            "name": "沪深300低贝塔(SH)",
+            "name": "沪深300高贝塔指数",
             "product": "IDX"
         },
-        "000830": {
-            "code": "000830",
+        "000832": {
+            "code": "000832",
             "exchg": "SSE",
-            "name": "中证500高贝塔(SH)",
+            "name": "中证可转换债券指数",
             "product": "IDX"
         },
-        "000831": {
-            "code": "000831",
+        "000846": {
+            "code": "000846",
             "exchg": "SSE",
-            "name": "中证500低贝塔(SH)",
-            "product": "IDX"
-        },
-        "000838": {
-            "code": "000838",
-            "exchg": "SSE",
-            "name": "中证创业价值(SH)",
-            "product": "IDX"
-        },
-        "000839": {
-            "code": "000839",
-            "exchg": "SSE",
-            "name": "中证浙企综指(SH)",
-            "product": "IDX"
-        },
-        "000840": {
-            "code": "000840",
-            "exchg": "SSE",
-            "name": "中证浙江民企(SH)",
-            "product": "IDX"
-        },
-        "000843": {
-            "code": "000843",
-            "exchg": "SSE",
-            "name": "沪深300动态(SH)",
-            "product": "IDX"
-        },
-        "000844": {
-            "code": "000844",
-            "exchg": "SSE",
-            "name": "沪深300稳定(SH)",
+            "name": "中证财通中国可持续发展100(ECPIESG)指数",
             "product": "IDX"
         },
         "000847": {
             "code": "000847",
             "exchg": "SSE",
-            "name": "腾讯济安",
+            "name": "中证腾讯济安价值100A股指数",
             "product": "IDX"
         },
         "000849": {
             "code": "000849",
             "exchg": "SSE",
-            "name": "300非银",
+            "name": "沪深300非银行金融指数",
             "product": "IDX"
         },
         "000851": {
             "code": "000851",
             "exchg": "SSE",
-            "name": "百发100",
+            "name": "百发100指数",
             "product": "IDX"
         },
         "000852": {
             "code": "000852",
             "exchg": "SSE",
-            "name": "中证1000",
+            "name": "中证1000指数",
             "product": "IDX"
         },
         "000853": {
             "code": "000853",
             "exchg": "SSE",
-            "name": "CSSW丝路",
+            "name": "中证申万一带一路主题投资指数",
             "product": "IDX"
         },
         "000854": {
             "code": "000854",
             "exchg": "SSE",
-            "name": "中证500原料",
+            "name": "中证500原材料指数",
             "product": "IDX"
         },
         "000855": {
             "code": "000855",
             "exchg": "SSE",
-            "name": "央视500",
+            "name": "央视财经500指数",
             "product": "IDX"
         },
         "000856": {
             "code": "000856",
             "exchg": "SSE",
-            "name": "中证500工业",
+            "name": "中证500工业指数",
             "product": "IDX"
         },
         "000857": {
             "code": "000857",
             "exchg": "SSE",
-            "name": "中证500医药",
+            "name": "中证500医药卫生指数",
             "product": "IDX"
         },
         "000858": {
             "code": "000858",
             "exchg": "SSE",
-            "name": "中证500信息",
-            "product": "IDX"
-        },
-        "000863": {
-            "code": "000863",
-            "exchg": "SSE",
-            "name": "CS精准医",
-            "product": "IDX"
-        },
-        "000865": {
-            "code": "000865",
-            "exchg": "SSE",
-            "name": "上海国企",
-            "product": "IDX"
-        },
-        "000867": {
-            "code": "000867",
-            "exchg": "SSE",
-            "name": "港中小企",
-            "product": "IDX"
-        },
-        "000869": {
-            "code": "000869",
-            "exchg": "SSE",
-            "name": "HK银行(HKD)",
+            "name": "中证500信息技术指数",
             "product": "IDX"
         },
         "000901": {
             "code": "000901",
             "exchg": "SSE",
-            "name": "小康指数",
-            "product": "IDX"
-        },
-        "000902": {
-            "code": "000902",
-            "exchg": "SSE",
-            "name": "中证流通(SH)",
+            "name": "中证南方小康产业指数",
             "product": "IDX"
         },
         "000903": {
             "code": "000903",
             "exchg": "SSE",
-            "name": "中证100",
+            "name": "中证100指数",
+            "product": "IDX"
+        },
+        "000904": {
+            "code": "000904",
+            "exchg": "SSE",
+            "name": "中证200指数",
             "product": "IDX"
         },
         "000905": {
             "code": "000905",
             "exchg": "SSE",
-            "name": "中证500",
+            "name": "中证500指数",
             "product": "IDX"
         },
         "000906": {
             "code": "000906",
             "exchg": "SSE",
-            "name": "中证800",
+            "name": "中证800指数",
             "product": "IDX"
         },
-        "000907": {
-            "code": "000907",
+        "000908": {
+            "code": "000908",
             "exchg": "SSE",
-            "name": "中证700(SH)",
+            "name": "沪深300能源指数",
+            "product": "IDX"
+        },
+        "000909": {
+            "code": "000909",
+            "exchg": "SSE",
+            "name": "沪深300原材料指数",
+            "product": "IDX"
+        },
+        "000910": {
+            "code": "000910",
+            "exchg": "SSE",
+            "name": "沪深300工业指数",
+            "product": "IDX"
+        },
+        "000911": {
+            "code": "000911",
+            "exchg": "SSE",
+            "name": "沪深300可选消费指数",
+            "product": "IDX"
+        },
+        "000912": {
+            "code": "000912",
+            "exchg": "SSE",
+            "name": "沪深300主要消费指数",
             "product": "IDX"
         },
         "000913": {
             "code": "000913",
             "exchg": "SSE",
-            "name": "300医药",
+            "name": "沪深300医药卫生指数",
             "product": "IDX"
         },
         "000914": {
             "code": "000914",
             "exchg": "SSE",
-            "name": "300金融",
+            "name": "沪深300金融地产指数",
             "product": "IDX"
         },
-        "000915": {
-            "code": "000915",
+        "000917": {
+            "code": "000917",
             "exchg": "SSE",
-            "name": "沪深300信息(SH)",
+            "name": "沪深300公用事业指数",
             "product": "IDX"
         },
-        "000916": {
-            "code": "000916",
+        "000918": {
+            "code": "000918",
             "exchg": "SSE",
-            "name": "沪深300电信(SH)",
+            "name": "沪深300成长指数",
             "product": "IDX"
         },
-        "000920": {
-            "code": "000920",
+        "000919": {
+            "code": "000919",
             "exchg": "SSE",
-            "name": "沪深300R成长(SH)",
+            "name": "沪深300价值指数",
             "product": "IDX"
         },
-        "000921": {
-            "code": "000921",
+        "000922": {
+            "code": "000922",
             "exchg": "SSE",
-            "name": "沪深300R价值(SH)",
+            "name": "中证红利指数",
             "product": "IDX"
         },
-        "000926": {
-            "code": "000926",
+        "000925": {
+            "code": "000925",
             "exchg": "SSE",
-            "name": "中证央企(SH)",
-            "product": "IDX"
-        },
-        "000927": {
-            "code": "000927",
-            "exchg": "SSE",
-            "name": "央企100(SH)",
+            "name": "中证锐联基本面50指数",
             "product": "IDX"
         },
         "000928": {
             "code": "000928",
             "exchg": "SSE",
-            "name": "800能源",
+            "name": "中证能源指数",
             "product": "IDX"
         },
-        "000929": {
-            "code": "000929",
+        "000931": {
+            "code": "000931",
             "exchg": "SSE",
-            "name": "800材料",
-            "product": "IDX"
-        },
-        "000930": {
-            "code": "000930",
-            "exchg": "SSE",
-            "name": "800工业",
+            "name": "中证可选消费指数",
             "product": "IDX"
         },
         "000932": {
             "code": "000932",
             "exchg": "SSE",
-            "name": "800消费",
+            "name": "中证主要消费指数",
             "product": "IDX"
         },
         "000933": {
             "code": "000933",
             "exchg": "SSE",
-            "name": "800医药",
+            "name": "中证医药卫生指数",
             "product": "IDX"
         },
         "000934": {
             "code": "000934",
             "exchg": "SSE",
-            "name": "800金地",
+            "name": "中证金融地产指数",
             "product": "IDX"
         },
         "000935": {
             "code": "000935",
             "exchg": "SSE",
-            "name": "800信息",
+            "name": "中证信息技术指数",
             "product": "IDX"
         },
-        "000936": {
-            "code": "000936",
+        "000944": {
+            "code": "000944",
             "exchg": "SSE",
-            "name": "800通信(SH)",
+            "name": "中证内地资源主题指数",
             "product": "IDX"
         },
-        "000937": {
-            "code": "000937",
+        "000952": {
+            "code": "000952",
             "exchg": "SSE",
-            "name": "800公用(SH)",
+            "name": "沪深300房地产指数",
             "product": "IDX"
         },
-        "000938": {
-            "code": "000938",
+        "000959": {
+            "code": "000959",
             "exchg": "SSE",
-            "name": "中证民企(SH)",
+            "name": "银河99",
             "product": "IDX"
         },
-        "000941": {
-            "code": "000941",
+        "000961": {
+            "code": "000961",
             "exchg": "SSE",
-            "name": "新能源(SH)",
+            "name": "中证上游资源产业指数",
             "product": "IDX"
         },
-        "000942": {
-            "code": "000942",
+        "000964": {
+            "code": "000964",
             "exchg": "SSE",
-            "name": "内地消费(SH)",
+            "name": "中证新兴产业指数",
             "product": "IDX"
         },
-        "000943": {
-            "code": "000943",
+        "000966": {
+            "code": "000966",
             "exchg": "SSE",
-            "name": "新基建50(SH)",
+            "name": "中证锐联基本面400指数",
             "product": "IDX"
         },
-        "000945": {
-            "code": "000945",
+        "000969": {
+            "code": "000969",
             "exchg": "SSE",
-            "name": "内地运输(SH)",
+            "name": "沪深300非周期行业指数",
             "product": "IDX"
         },
-        "000947": {
-            "code": "000947",
+        "000971": {
+            "code": "000971",
             "exchg": "SSE",
-            "name": "内地银行(SH)",
-            "product": "IDX"
-        },
-        "000948": {
-            "code": "000948",
-            "exchg": "SSE",
-            "name": "内地地产(SH)",
-            "product": "IDX"
-        },
-        "000949": {
-            "code": "000949",
-            "exchg": "SSE",
-            "name": "中证农业(SH)",
-            "product": "IDX"
-        },
-        "000953": {
-            "code": "000953",
-            "exchg": "SSE",
-            "name": "中证地企(SH)",
-            "product": "IDX"
-        },
-        "000954": {
-            "code": "000954",
-            "exchg": "SSE",
-            "name": "地企100(SH)",
-            "product": "IDX"
-        },
-        "000955": {
-            "code": "000955",
-            "exchg": "SSE",
-            "name": "中证国企(SH)",
-            "product": "IDX"
-        },
-        "000956": {
-            "code": "000956",
-            "exchg": "SSE",
-            "name": "国企200(SH)",
-            "product": "IDX"
-        },
-        "000962": {
-            "code": "000962",
-            "exchg": "SSE",
-            "name": "中证中游(SH)",
-            "product": "IDX"
-        },
-        "000965": {
-            "code": "000965",
-            "exchg": "SSE",
-            "name": "基本200(SH)",
-            "product": "IDX"
-        },
-        "000967": {
-            "code": "000967",
-            "exchg": "SSE",
-            "name": "基本600(SH)",
-            "product": "IDX"
-        },
-        "000968": {
-            "code": "000968",
-            "exchg": "SSE",
-            "name": "300周期(SH)",
-            "product": "IDX"
-        },
-        "000970": {
-            "code": "000970",
-            "exchg": "SSE",
-            "name": "ESG40(SH)",
-            "product": "IDX"
-        },
-        "000972": {
-            "code": "000972",
-            "exchg": "SSE",
-            "name": "300沪市(SH)",
-            "product": "IDX"
-        },
-        "000973": {
-            "code": "000973",
-            "exchg": "SSE",
-            "name": "技术领先(退市)",
+            "name": "等权90",
             "product": "IDX"
         },
         "000974": {
             "code": "000974",
             "exchg": "SSE",
-            "name": "800金融",
+            "name": "中证800金融指数",
             "product": "IDX"
         },
-        "000976": {
-            "code": "000976",
+        "000977": {
+            "code": "000977",
             "exchg": "SSE",
-            "name": "新华金牛(退市)",
+            "name": "中证内地低碳经济主题指数",
             "product": "IDX"
         },
-        "000980": {
-            "code": "000980",
+        "000978": {
+            "code": "000978",
             "exchg": "SSE",
-            "name": "中证超大(SH)",
+            "name": "中证医药100指数",
             "product": "IDX"
         },
-        "000981": {
-            "code": "000981",
+        "000979": {
+            "code": "000979",
             "exchg": "SSE",
-            "name": "300分层(SH)",
+            "name": "中证大宗商品股票指数",
             "product": "IDX"
         },
         "000982": {
             "code": "000982",
             "exchg": "SSE",
-            "name": "500等权",
+            "name": "中证500等权重指数",
             "product": "IDX"
         },
-        "000985": {
-            "code": "000985",
+        "000984": {
+            "code": "000984",
             "exchg": "SSE",
-            "name": "中证全指(SH)",
+            "name": "沪深300等权重指数",
             "product": "IDX"
         },
         "000986": {
             "code": "000986",
             "exchg": "SSE",
-            "name": "全指能源",
+            "name": "中证全指能源指数",
             "product": "IDX"
         },
         "000987": {
             "code": "000987",
             "exchg": "SSE",
-            "name": "全指材料",
-            "product": "IDX"
-        },
-        "000988": {
-            "code": "000988",
-            "exchg": "SSE",
-            "name": "全指工业(SH)",
+            "name": "中证全指原材料指数",
             "product": "IDX"
         },
         "000989": {
             "code": "000989",
             "exchg": "SSE",
-            "name": "全指可选",
+            "name": "中证全指可选消费指数",
+            "product": "IDX"
+        },
+        "000990": {
+            "code": "000990",
+            "exchg": "SSE",
+            "name": "中证全指主要消费指数",
             "product": "IDX"
         },
         "000991": {
             "code": "000991",
             "exchg": "SSE",
-            "name": "全指医药",
+            "name": "中证全指医药卫生指数",
             "product": "IDX"
         },
         "000992": {
             "code": "000992",
             "exchg": "SSE",
-            "name": "金融地产",
+            "name": "中证全指金融地产指数",
             "product": "IDX"
         },
         "000993": {
             "code": "000993",
             "exchg": "SSE",
-            "name": "全指信息",
+            "name": "中证全指信息技术指数",
             "product": "IDX"
         },
-        "000994": {
-            "code": "000994",
+        "000998": {
+            "code": "000998",
             "exchg": "SSE",
-            "name": "全指通信(SH)",
-            "product": "IDX"
-        },
-        "000995": {
-            "code": "000995",
-            "exchg": "SSE",
-            "name": "全指公用(SH)",
-            "product": "IDX"
-        },
-        "000996": {
-            "code": "000996",
-            "exchg": "SSE",
-            "name": "领先行业(退市)",
-            "product": "IDX"
-        },
-        "000997": {
-            "code": "000997",
-            "exchg": "SSE",
-            "name": "大消费(退市)",
-            "product": "IDX"
-        },
-        "000999": {
-            "code": "000999",
-            "exchg": "SSE",
-            "name": "两岸三地",
+            "name": "中证TMT产业主题指数",
             "product": "IDX"
         },
         "600000": {
@@ -2679,7 +2421,7 @@
         "600250": {
             "code": "600250",
             "exchg": "SSE",
-            "name": "南京商旅",
+            "name": "南纺股份",
             "product": "STK"
         },
         "600251": {
@@ -4875,7 +4617,7 @@
         "600720": {
             "code": "600720",
             "exchg": "SSE",
-            "name": "中交设计",
+            "name": "祁连山",
             "product": "STK"
         },
         "600721": {
@@ -5091,7 +4833,7 @@
         "600759": {
             "code": "600759",
             "exchg": "SSE",
-            "name": "ST洲际",
+            "name": "*ST洲际",
             "product": "STK"
         },
         "600760": {
@@ -5379,7 +5121,7 @@
         "600816": {
             "code": "600816",
             "exchg": "SSE",
-            "name": "建元信托",
+            "name": "ST建元",
             "product": "STK"
         },
         "600817": {
@@ -6837,7 +6579,7 @@
         "601515": {
             "code": "601515",
             "exchg": "SSE",
-            "name": "东峰集团",
+            "name": "东风股份",
             "product": "STK"
         },
         "601518": {
@@ -9678,12 +9420,6 @@
             "name": "纵横通信",
             "product": "STK"
         },
-        "603603": {
-            "code": "603603",
-            "exchg": "SSE",
-            "name": "*ST博天",
-            "product": "STK"
-        },
         "603605": {
             "code": "603605",
             "exchg": "SSE",
@@ -10251,7 +9987,7 @@
         "603778": {
             "code": "603778",
             "exchg": "SSE",
-            "name": "国晟科技",
+            "name": "乾景园林",
             "product": "STK"
         },
         "603779": {
@@ -11826,12 +11562,6 @@
             "name": "洁特生物",
             "product": "STK"
         },
-        "688027": {
-            "code": "688027",
-            "exchg": "SSE",
-            "name": "国盾量子",
-            "product": "STK"
-        },
         "688028": {
             "code": "688028",
             "exchg": "SSE",
@@ -11853,7 +11583,7 @@
         "688031": {
             "code": "688031",
             "exchg": "SSE",
-            "name": "星环科技-U",
+            "name": "星环科技",
             "product": "STK"
         },
         "688032": {
@@ -12003,7 +11733,7 @@
         "688062": {
             "code": "688062",
             "exchg": "SSE",
-            "name": "迈威生物-U",
+            "name": "迈威生物",
             "product": "STK"
         },
         "688063": {
@@ -12501,7 +12231,7 @@
         "688158": {
             "code": "688158",
             "exchg": "SSE",
-            "name": "优刻得-W",
+            "name": "优刻得",
             "product": "STK"
         },
         "688159": {
@@ -12537,7 +12267,7 @@
         "688165": {
             "code": "688165",
             "exchg": "SSE",
-            "name": "埃夫特-U",
+            "name": "埃夫特",
             "product": "STK"
         },
         "688166": {
@@ -12597,7 +12327,7 @@
         "688176": {
             "code": "688176",
             "exchg": "SSE",
-            "name": "亚虹医药-U",
+            "name": "亚虹医药",
             "product": "STK"
         },
         "688177": {
@@ -12621,7 +12351,7 @@
         "688180": {
             "code": "688180",
             "exchg": "SSE",
-            "name": "君实生物-U",
+            "name": "君实生物",
             "product": "STK"
         },
         "688181": {
@@ -12693,7 +12423,7 @@
         "688192": {
             "code": "688192",
             "exchg": "SSE",
-            "name": "迪哲医药-U",
+            "name": "迪哲医药",
             "product": "STK"
         },
         "688193": {
@@ -12717,7 +12447,7 @@
         "688197": {
             "code": "688197",
             "exchg": "SSE",
-            "name": "首药控股-U",
+            "name": "首药控股",
             "product": "STK"
         },
         "688198": {
@@ -12807,7 +12537,7 @@
         "688213": {
             "code": "688213",
             "exchg": "SSE",
-            "name": "思特威-W",
+            "name": "思特威",
             "product": "STK"
         },
         "688215": {
@@ -12843,13 +12573,13 @@
         "688220": {
             "code": "688220",
             "exchg": "SSE",
-            "name": "翱捷科技-U",
+            "name": "翱捷科技",
             "product": "STK"
         },
         "688221": {
             "code": "688221",
             "exchg": "SSE",
-            "name": "前沿生物-U",
+            "name": "前沿生物",
             "product": "STK"
         },
         "688222": {
@@ -12927,7 +12657,7 @@
         "688235": {
             "code": "688235",
             "exchg": "SSE",
-            "name": "百济神州-U",
+            "name": "百济神州",
             "product": "STK"
         },
         "688236": {
@@ -13011,7 +12741,7 @@
         "688256": {
             "code": "688256",
             "exchg": "SSE",
-            "name": "寒武纪-U",
+            "name": "寒武纪",
             "product": "STK"
         },
         "688257": {
@@ -13059,7 +12789,7 @@
         "688266": {
             "code": "688266",
             "exchg": "SSE",
-            "name": "泽璟制药-U",
+            "name": "泽璟制药",
             "product": "STK"
         },
         "688267": {
@@ -13119,7 +12849,7 @@
         "688277": {
             "code": "688277",
             "exchg": "SSE",
-            "name": "天智航-U",
+            "name": "天智航",
             "product": "STK"
         },
         "688278": {
@@ -13137,7 +12867,7 @@
         "688280": {
             "code": "688280",
             "exchg": "SSE",
-            "name": "精进电动-UW",
+            "name": "精进电动",
             "product": "STK"
         },
         "688281": {
@@ -13257,7 +12987,7 @@
         "688302": {
             "code": "688302",
             "exchg": "SSE",
-            "name": "海创药业-U",
+            "name": "海创药业",
             "product": "STK"
         },
         "688303": {
@@ -13335,7 +13065,7 @@
         "688316": {
             "code": "688316",
             "exchg": "SSE",
-            "name": "青云科技-U",
+            "name": "青云科技",
             "product": "STK"
         },
         "688317": {
@@ -13371,7 +13101,7 @@
         "688322": {
             "code": "688322",
             "exchg": "SSE",
-            "name": "奥比中光-UW",
+            "name": "奥比中光",
             "product": "STK"
         },
         "688323": {
@@ -13389,13 +13119,13 @@
         "688326": {
             "code": "688326",
             "exchg": "SSE",
-            "name": "经纬恒润-W",
+            "name": "经纬恒润",
             "product": "STK"
         },
         "688327": {
             "code": "688327",
             "exchg": "SSE",
-            "name": "云从科技-UW",
+            "name": "云从科技",
             "product": "STK"
         },
         "688328": {
@@ -13467,13 +13197,13 @@
         "688339": {
             "code": "688339",
             "exchg": "SSE",
-            "name": "亿华通-U",
+            "name": "亿华通",
             "product": "STK"
         },
         "688343": {
             "code": "688343",
             "exchg": "SSE",
-            "name": "云天励飞-U",
+            "name": "云天励飞",
             "product": "STK"
         },
         "688345": {
@@ -13509,7 +13239,7 @@
         "688351": {
             "code": "688351",
             "exchg": "SSE",
-            "name": "微电生理-U",
+            "name": "微电生理",
             "product": "STK"
         },
         "688352": {
@@ -13563,7 +13293,7 @@
         "688361": {
             "code": "688361",
             "exchg": "SSE",
-            "name": "中科飞测-U",
+            "name": "中科飞测",
             "product": "STK"
         },
         "688362": {
@@ -13629,7 +13359,7 @@
         "688373": {
             "code": "688373",
             "exchg": "SSE",
-            "name": "盟科药业-U",
+            "name": "盟科药业",
             "product": "STK"
         },
         "688375": {
@@ -13677,7 +13407,7 @@
         "688382": {
             "code": "688382",
             "exchg": "SSE",
-            "name": "益方生物-U",
+            "name": "益方生物",
             "product": "STK"
         },
         "688383": {
@@ -13701,7 +13431,7 @@
         "688387": {
             "code": "688387",
             "exchg": "SSE",
-            "name": "信科移动-U",
+            "name": "信科移动",
             "product": "STK"
         },
         "688388": {
@@ -13839,7 +13569,7 @@
         "688428": {
             "code": "688428",
             "exchg": "SSE",
-            "name": "诺诚健华-U",
+            "name": "诺诚健华",
             "product": "STK"
         },
         "688429": {
@@ -13875,7 +13605,7 @@
         "688443": {
             "code": "688443",
             "exchg": "SSE",
-            "name": "智翔金泰-U",
+            "name": "智翔金泰",
             "product": "STK"
         },
         "688448": {
@@ -13929,7 +13659,7 @@
         "688469": {
             "code": "688469",
             "exchg": "SSE",
-            "name": "芯联集成-U",
+            "name": "中芯集成",
             "product": "STK"
         },
         "688472": {
@@ -14043,7 +13773,7 @@
         "688506": {
             "code": "688506",
             "exchg": "SSE",
-            "name": "百利天恒-U",
+            "name": "百利天恒",
             "product": "STK"
         },
         "688507": {
@@ -14079,7 +13809,7 @@
         "688512": {
             "code": "688512",
             "exchg": "SSE",
-            "name": "慧智微-U",
+            "name": "慧智微",
             "product": "STK"
         },
         "688513": {
@@ -14091,7 +13821,7 @@
         "688515": {
             "code": "688515",
             "exchg": "SSE",
-            "name": "裕太微-U",
+            "name": "裕太微",
             "product": "STK"
         },
         "688516": {
@@ -14121,7 +13851,7 @@
         "688520": {
             "code": "688520",
             "exchg": "SSE",
-            "name": "神州细胞-U",
+            "name": "神州细胞",
             "product": "STK"
         },
         "688521": {
@@ -14163,7 +13893,7 @@
         "688529": {
             "code": "688529",
             "exchg": "SSE",
-            "name": "豪森智能",
+            "name": "豪森股份",
             "product": "STK"
         },
         "688531": {
@@ -14193,7 +13923,7 @@
         "688538": {
             "code": "688538",
             "exchg": "SSE",
-            "name": "和辉光电-U",
+            "name": "和辉光电",
             "product": "STK"
         },
         "688539": {
@@ -14217,7 +13947,7 @@
         "688549": {
             "code": "688549",
             "exchg": "SSE",
-            "name": "中巨芯-U",
+            "name": "中巨芯",
             "product": "STK"
         },
         "688550": {
@@ -14241,7 +13971,7 @@
         "688553": {
             "code": "688553",
             "exchg": "SSE",
-            "name": "汇宇制药-W",
+            "name": "汇宇制药",
             "product": "STK"
         },
         "688556": {
@@ -14277,7 +14007,7 @@
         "688561": {
             "code": "688561",
             "exchg": "SSE",
-            "name": "奇安信-U",
+            "name": "奇安信",
             "product": "STK"
         },
         "688562": {
@@ -14391,7 +14121,7 @@
         "688584": {
             "code": "688584",
             "exchg": "SSE",
-            "name": "C合晶",
+            "name": "上海合晶",
             "product": "STK"
         },
         "688585": {
@@ -14901,7 +14631,7 @@
         "688702": {
             "code": "688702",
             "exchg": "SSE",
-            "name": "盛科通信-U",
+            "name": "盛科通信",
             "product": "STK"
         },
         "688707": {
@@ -14913,7 +14643,7 @@
         "688709": {
             "code": "688709",
             "exchg": "SSE",
-            "name": "C华微",
+            "name": "成都华微",
             "product": "STK"
         },
         "688711": {
@@ -15093,7 +14823,7 @@
         "689009": {
             "code": "689009",
             "exchg": "SSE",
-            "name": "九号公司-WD",
+            "name": "九号公司",
             "product": "STK"
         }
     },
@@ -15114,12 +14844,6 @@
             "code": "000004",
             "exchg": "SZSE",
             "name": "国华网安",
-            "product": "STK"
-        },
-        "000005": {
-            "code": "000005",
-            "exchg": "SZSE",
-            "name": "ST星源",
             "product": "STK"
         },
         "000006": {
@@ -15761,7 +15485,7 @@
         "000523": {
             "code": "000523",
             "exchg": "SZSE",
-            "name": "红棉股份",
+            "name": "广州浪奇",
             "product": "STK"
         },
         "000524": {
@@ -15833,7 +15557,7 @@
         "000537": {
             "code": "000537",
             "exchg": "SZSE",
-            "name": "中绿电",
+            "name": "广宇发展",
             "product": "STK"
         },
         "000538": {
@@ -16812,12 +16536,6 @@
             "code": "000790",
             "exchg": "SZSE",
             "name": "华神科技",
-            "product": "STK"
-        },
-        "000791": {
-            "code": "000791",
-            "exchg": "SZSE",
-            "name": "甘肃能源",
             "product": "STK"
         },
         "000792": {
@@ -18236,12 +17954,6 @@
             "name": "新和成",
             "product": "STK"
         },
-        "002002": {
-            "code": "002002",
-            "exchg": "SZSE",
-            "name": "ST鸿达",
-            "product": "STK"
-        },
         "002003": {
             "code": "002003",
             "exchg": "SZSE",
@@ -18575,7 +18287,7 @@
         "002060": {
             "code": "002060",
             "exchg": "SZSE",
-            "name": "广东建工",
+            "name": "粤水电",
             "product": "STK"
         },
         "002061": {
@@ -18732,12 +18444,6 @@
             "code": "002088",
             "exchg": "SZSE",
             "name": "鲁阳节能",
-            "product": "STK"
-        },
-        "002089": {
-            "code": "002089",
-            "exchg": "SZSE",
-            "name": "*ST新海",
             "product": "STK"
         },
         "002090": {
@@ -20039,7 +19745,7 @@
         "002313": {
             "code": "002313",
             "exchg": "SZSE",
-            "name": "日海智能",
+            "name": "*ST日海",
             "product": "STK"
         },
         "002314": {
@@ -21023,7 +20729,7 @@
         "002485": {
             "code": "002485",
             "exchg": "SZSE",
-            "name": "ST雪发",
+            "name": "*ST雪发",
             "product": "STK"
         },
         "002486": {
@@ -22205,7 +21911,7 @@
         "002692": {
             "code": "002692",
             "exchg": "SZSE",
-            "name": "远程股份",
+            "name": "ST远程",
             "product": "STK"
         },
         "002693": {
@@ -22466,12 +22172,6 @@
             "name": "万达电影",
             "product": "STK"
         },
-        "002740": {
-            "code": "002740",
-            "exchg": "SZSE",
-            "name": "*ST爱迪",
-            "product": "STK"
-        },
         "002741": {
             "code": "002741",
             "exchg": "SZSE",
@@ -22649,7 +22349,7 @@
         "002775": {
             "code": "002775",
             "exchg": "SZSE",
-            "name": "文科股份",
+            "name": "文科园林",
             "product": "STK"
         },
         "002777": {
@@ -23178,12 +22878,6 @@
             "code": "002872",
             "exchg": "SZSE",
             "name": "ST天圣",
-            "product": "STK"
-        },
-        "002873": {
-            "code": "002873",
-            "exchg": "SZSE",
-            "name": "新天药业",
             "product": "STK"
         },
         "002875": {
@@ -24659,7 +24353,7 @@
         "300096": {
             "code": "300096",
             "exchg": "SZSE",
-            "name": "ST易联众",
+            "name": "易联众",
             "product": "STK"
         },
         "300097": {
@@ -25187,7 +24881,7 @@
         "300188": {
             "code": "300188",
             "exchg": "SZSE",
-            "name": "国投智能",
+            "name": "美亚柏科",
             "product": "STK"
         },
         "300189": {
@@ -25283,7 +24977,7 @@
         "300205": {
             "code": "300205",
             "exchg": "SZSE",
-            "name": "ST天喻",
+            "name": "天喻信息",
             "product": "STK"
         },
         "300206": {
@@ -26639,7 +26333,7 @@
         "300446": {
             "code": "300446",
             "exchg": "SZSE",
-            "name": "航天智造",
+            "name": "乐凯新材",
             "product": "STK"
         },
         "300447": {
@@ -28025,7 +27719,7 @@
         "300682": {
             "code": "300682",
             "exchg": "SZSE",
-            "name": "朗新集团",
+            "name": "朗新科技",
             "product": "STK"
         },
         "300683": {
@@ -32147,4028 +31841,1754 @@
         "301589": {
             "code": "301589",
             "exchg": "SZSE",
-            "name": "C诺瓦",
+            "name": "诺瓦星云",
+            "product": "STK"
+        },
+        "301591": {
+            "code": "301591",
+            "exchg": "SZSE",
+            "name": "肯特股份",
             "product": "STK"
         },
         "399001": {
             "code": "399001",
             "exchg": "SZSE",
-            "name": "深证成指",
+            "name": "深证成份指数(价格)",
             "product": "IDX"
         },
         "399002": {
             "code": "399002",
             "exchg": "SZSE",
-            "name": "深成指R",
+            "name": "深证成份指数(收益)",
             "product": "IDX"
         },
         "399003": {
             "code": "399003",
             "exchg": "SZSE",
-            "name": "深成B指",
+            "name": "深证成份B股指数",
             "product": "IDX"
         },
         "399004": {
             "code": "399004",
             "exchg": "SZSE",
-            "name": "深证100R",
+            "name": "深证100指数(收益)",
             "product": "IDX"
         },
         "399005": {
             "code": "399005",
             "exchg": "SZSE",
-            "name": "中小100",
+            "name": "中小企业100指数",
             "product": "IDX"
         },
         "399006": {
             "code": "399006",
             "exchg": "SZSE",
-            "name": "创业板指",
+            "name": "创业板指数(价格)",
             "product": "IDX"
         },
         "399007": {
             "code": "399007",
             "exchg": "SZSE",
-            "name": "深证300",
+            "name": "深证300价格",
             "product": "IDX"
         },
         "399008": {
             "code": "399008",
             "exchg": "SZSE",
-            "name": "中小300",
+            "name": "中小企业300指数",
             "product": "IDX"
         },
         "399009": {
             "code": "399009",
             "exchg": "SZSE",
-            "name": "深证200",
+            "name": "深证200指数",
             "product": "IDX"
         },
         "399010": {
             "code": "399010",
             "exchg": "SZSE",
-            "name": "深证700",
+            "name": "深证700指数",
             "product": "IDX"
         },
         "399011": {
             "code": "399011",
             "exchg": "SZSE",
-            "name": "深证1000",
+            "name": "深证1000指数",
             "product": "IDX"
         },
         "399012": {
             "code": "399012",
             "exchg": "SZSE",
-            "name": "创业300",
+            "name": "创业板300",
             "product": "IDX"
         },
         "399013": {
             "code": "399013",
             "exchg": "SZSE",
-            "name": "深市精选",
+            "name": "深市精选指数",
             "product": "IDX"
         },
         "399015": {
             "code": "399015",
             "exchg": "SZSE",
-            "name": "中小创新",
-            "product": "IDX"
-        },
-        "399016": {
-            "code": "399016",
-            "exchg": "SZSE",
-            "name": "深证创新",
-            "product": "IDX"
-        },
-        "399017": {
-            "code": "399017",
-            "exchg": "SZSE",
-            "name": "SME创新",
-            "product": "IDX"
-        },
-        "399018": {
-            "code": "399018",
-            "exchg": "SZSE",
-            "name": "创业创新",
-            "product": "IDX"
-        },
-        "399030": {
-            "code": "399030",
-            "exchg": "SZSE",
-            "name": "碳科技30",
-            "product": "IDX"
-        },
-        "399050": {
-            "code": "399050",
-            "exchg": "SZSE",
-            "name": "创新引擎",
-            "product": "IDX"
-        },
-        "399060": {
-            "code": "399060",
-            "exchg": "SZSE",
-            "name": "碳科技60",
-            "product": "IDX"
-        },
-        "399088": {
-            "code": "399088",
-            "exchg": "SZSE",
-            "name": "深创100",
+            "name": "深证中小创新指数",
             "product": "IDX"
         },
         "399100": {
             "code": "399100",
             "exchg": "SZSE",
-            "name": "新指数",
+            "name": "深证新指数",
             "product": "IDX"
         },
         "399101": {
             "code": "399101",
             "exchg": "SZSE",
-            "name": "中小综指",
+            "name": "中小企业综合指数",
             "product": "IDX"
         },
         "399102": {
             "code": "399102",
             "exchg": "SZSE",
-            "name": "创业板综",
+            "name": "创业板综合指数",
+            "product": "IDX"
+        },
+        "399103": {
+            "code": "399103",
+            "exchg": "SZSE",
+            "name": "乐富基金指数",
             "product": "IDX"
         },
         "399106": {
             "code": "399106",
             "exchg": "SZSE",
-            "name": "深证综指",
+            "name": "深证综合指数",
             "product": "IDX"
         },
         "399107": {
             "code": "399107",
             "exchg": "SZSE",
-            "name": "深证A指",
+            "name": "深证A股指数",
             "product": "IDX"
         },
         "399108": {
             "code": "399108",
             "exchg": "SZSE",
-            "name": "深证B指",
-            "product": "IDX"
-        },
-        "399110": {
-            "code": "399110",
-            "exchg": "SZSE",
-            "name": "农林牧渔指数(退市)",
-            "product": "IDX"
-        },
-        "399120": {
-            "code": "399120",
-            "exchg": "SZSE",
-            "name": "采掘业指数(退市)",
-            "product": "IDX"
-        },
-        "399130": {
-            "code": "399130",
-            "exchg": "SZSE",
-            "name": "制造业指数(退市)",
-            "product": "IDX"
-        },
-        "399131": {
-            "code": "399131",
-            "exchg": "SZSE",
-            "name": "食品饮料指数(退市)",
-            "product": "IDX"
-        },
-        "399132": {
-            "code": "399132",
-            "exchg": "SZSE",
-            "name": "纺织服装指数(退市)",
-            "product": "IDX"
-        },
-        "399133": {
-            "code": "399133",
-            "exchg": "SZSE",
-            "name": "木材家具指数(退市)",
-            "product": "IDX"
-        },
-        "399134": {
-            "code": "399134",
-            "exchg": "SZSE",
-            "name": "造纸印刷指数(退市)",
-            "product": "IDX"
-        },
-        "399135": {
-            "code": "399135",
-            "exchg": "SZSE",
-            "name": "石化塑胶指数(退市)",
-            "product": "IDX"
-        },
-        "399136": {
-            "code": "399136",
-            "exchg": "SZSE",
-            "name": "电子指数(退市)",
-            "product": "IDX"
-        },
-        "399137": {
-            "code": "399137",
-            "exchg": "SZSE",
-            "name": "金属非金属指数(退市)",
-            "product": "IDX"
-        },
-        "399138": {
-            "code": "399138",
-            "exchg": "SZSE",
-            "name": "机械设备指数(退市)",
-            "product": "IDX"
-        },
-        "399139": {
-            "code": "399139",
-            "exchg": "SZSE",
-            "name": "医药生物指数(退市)",
-            "product": "IDX"
-        },
-        "399140": {
-            "code": "399140",
-            "exchg": "SZSE",
-            "name": "水电煤气指数(退市)",
-            "product": "IDX"
-        },
-        "399150": {
-            "code": "399150",
-            "exchg": "SZSE",
-            "name": "建筑业指数(退市)",
-            "product": "IDX"
-        },
-        "399160": {
-            "code": "399160",
-            "exchg": "SZSE",
-            "name": "运输仓储指数(退市)",
-            "product": "IDX"
-        },
-        "399170": {
-            "code": "399170",
-            "exchg": "SZSE",
-            "name": "信息技术指数(退市)",
-            "product": "IDX"
-        },
-        "399180": {
-            "code": "399180",
-            "exchg": "SZSE",
-            "name": "批发零售指数(退市)",
-            "product": "IDX"
-        },
-        "399190": {
-            "code": "399190",
-            "exchg": "SZSE",
-            "name": "金融保险指数(退市)",
-            "product": "IDX"
-        },
-        "399200": {
-            "code": "399200",
-            "exchg": "SZSE",
-            "name": "房地产业指数(退市)",
-            "product": "IDX"
-        },
-        "399210": {
-            "code": "399210",
-            "exchg": "SZSE",
-            "name": "社会服务指数(退市)",
-            "product": "IDX"
-        },
-        "399220": {
-            "code": "399220",
-            "exchg": "SZSE",
-            "name": "传播文化指数(退市)",
-            "product": "IDX"
-        },
-        "399230": {
-            "code": "399230",
-            "exchg": "SZSE",
-            "name": "综合类指数(退市)",
+            "name": "深证B股指数",
             "product": "IDX"
         },
         "399231": {
             "code": "399231",
             "exchg": "SZSE",
-            "name": "农林指数",
+            "name": "农林牧渔指数",
             "product": "IDX"
         },
         "399232": {
             "code": "399232",
             "exchg": "SZSE",
-            "name": "采矿指数",
+            "name": "采矿业指数",
             "product": "IDX"
         },
         "399233": {
             "code": "399233",
             "exchg": "SZSE",
-            "name": "制造指数",
+            "name": "制造业指数",
             "product": "IDX"
         },
         "399234": {
             "code": "399234",
             "exchg": "SZSE",
-            "name": "水电指数",
+            "name": "水电煤气指数",
             "product": "IDX"
         },
         "399235": {
             "code": "399235",
             "exchg": "SZSE",
-            "name": "建筑指数",
+            "name": "建筑业指数",
             "product": "IDX"
         },
         "399236": {
             "code": "399236",
             "exchg": "SZSE",
-            "name": "批零指数",
+            "name": "批发零售指数",
             "product": "IDX"
         },
         "399237": {
             "code": "399237",
             "exchg": "SZSE",
-            "name": "运输指数",
+            "name": "运输仓储指数",
             "product": "IDX"
         },
         "399238": {
             "code": "399238",
             "exchg": "SZSE",
-            "name": "餐饮指数",
+            "name": "住宿餐饮指数",
             "product": "IDX"
         },
         "399239": {
             "code": "399239",
             "exchg": "SZSE",
-            "name": "IT指数",
+            "name": "信息技术指数",
             "product": "IDX"
         },
         "399240": {
             "code": "399240",
             "exchg": "SZSE",
-            "name": "金融指数",
+            "name": "金融业指数",
             "product": "IDX"
         },
         "399241": {
             "code": "399241",
             "exchg": "SZSE",
-            "name": "地产指数",
+            "name": "房地产业指数",
             "product": "IDX"
         },
         "399242": {
             "code": "399242",
             "exchg": "SZSE",
-            "name": "商务指数",
+            "name": "商务服务指数",
             "product": "IDX"
         },
         "399243": {
             "code": "399243",
             "exchg": "SZSE",
-            "name": "科研指数",
+            "name": "科研服务指数",
             "product": "IDX"
         },
         "399244": {
             "code": "399244",
             "exchg": "SZSE",
-            "name": "公共指数",
+            "name": "公共环保指数",
             "product": "IDX"
         },
         "399248": {
             "code": "399248",
             "exchg": "SZSE",
-            "name": "文化指数",
+            "name": "文化传播指数",
             "product": "IDX"
         },
         "399249": {
             "code": "399249",
             "exchg": "SZSE",
-            "name": "综企指数",
+            "name": "综合类指数",
             "product": "IDX"
         },
-        "399258": {
-            "code": "399258",
+        "399298": {
+            "code": "399298",
             "exchg": "SZSE",
-            "name": "绿色低碳",
+            "name": "深证中高等级信用债指数",
             "product": "IDX"
         },
-        "399259": {
-            "code": "399259",
+        "399299": {
+            "code": "399299",
             "exchg": "SZSE",
-            "name": "创业低碳",
-            "product": "IDX"
-        },
-        "399260": {
-            "code": "399260",
-            "exchg": "SZSE",
-            "name": "先进制造",
-            "product": "IDX"
-        },
-        "399261": {
-            "code": "399261",
-            "exchg": "SZSE",
-            "name": "创业制造",
-            "product": "IDX"
-        },
-        "399262": {
-            "code": "399262",
-            "exchg": "SZSE",
-            "name": "数字经济",
-            "product": "IDX"
-        },
-        "399263": {
-            "code": "399263",
-            "exchg": "SZSE",
-            "name": "创业数字",
-            "product": "IDX"
-        },
-        "399264": {
-            "code": "399264",
-            "exchg": "SZSE",
-            "name": "创新技术",
-            "product": "IDX"
-        },
-        "399265": {
-            "code": "399265",
-            "exchg": "SZSE",
-            "name": "创新药械",
-            "product": "IDX"
-        },
-        "399266": {
-            "code": "399266",
-            "exchg": "SZSE",
-            "name": "创新能源",
-            "product": "IDX"
-        },
-        "399269": {
-            "code": "399269",
-            "exchg": "SZSE",
-            "name": "创质量",
-            "product": "IDX"
-        },
-        "399274": {
-            "code": "399274",
-            "exchg": "SZSE",
-            "name": "深新基建",
-            "product": "IDX"
-        },
-        "399275": {
-            "code": "399275",
-            "exchg": "SZSE",
-            "name": "创医药",
-            "product": "IDX"
-        },
-        "399276": {
-            "code": "399276",
-            "exchg": "SZSE",
-            "name": "创科技",
-            "product": "IDX"
-        },
-        "399277": {
-            "code": "399277",
-            "exchg": "SZSE",
-            "name": "公共健康",
-            "product": "IDX"
-        },
-        "399278": {
-            "code": "399278",
-            "exchg": "SZSE",
-            "name": "长江100",
-            "product": "IDX"
-        },
-        "399279": {
-            "code": "399279",
-            "exchg": "SZSE",
-            "name": "云科技50",
-            "product": "IDX"
-        },
-        "399280": {
-            "code": "399280",
-            "exchg": "SZSE",
-            "name": "生物50",
-            "product": "IDX"
-        },
-        "399281": {
-            "code": "399281",
-            "exchg": "SZSE",
-            "name": "电子50",
-            "product": "IDX"
-        },
-        "399282": {
-            "code": "399282",
-            "exchg": "SZSE",
-            "name": "大数据50",
-            "product": "IDX"
-        },
-        "399283": {
-            "code": "399283",
-            "exchg": "SZSE",
-            "name": "机器人50",
-            "product": "IDX"
-        },
-        "399284": {
-            "code": "399284",
-            "exchg": "SZSE",
-            "name": "AI 50",
-            "product": "IDX"
-        },
-        "399285": {
-            "code": "399285",
-            "exchg": "SZSE",
-            "name": "物联网50",
-            "product": "IDX"
-        },
-        "399286": {
-            "code": "399286",
-            "exchg": "SZSE",
-            "name": "区块链50",
-            "product": "IDX"
-        },
-        "399291": {
-            "code": "399291",
-            "exchg": "SZSE",
-            "name": "创精选88",
-            "product": "IDX"
-        },
-        "399292": {
-            "code": "399292",
-            "exchg": "SZSE",
-            "name": "民企发展",
-            "product": "IDX"
-        },
-        "399293": {
-            "code": "399293",
-            "exchg": "SZSE",
-            "name": "创业大盘",
-            "product": "IDX"
-        },
-        "399294": {
-            "code": "399294",
-            "exchg": "SZSE",
-            "name": "中小创Q",
-            "product": "IDX"
-        },
-        "399295": {
-            "code": "399295",
-            "exchg": "SZSE",
-            "name": "创价值",
-            "product": "IDX"
-        },
-        "399296": {
-            "code": "399296",
-            "exchg": "SZSE",
-            "name": "创成长",
-            "product": "IDX"
-        },
-        "399297": {
-            "code": "399297",
-            "exchg": "SZSE",
-            "name": "新浪100",
+            "name": "深证中低等级信用债指数",
             "product": "IDX"
         },
         "399300": {
             "code": "399300",
             "exchg": "SZSE",
-            "name": "沪深300",
+            "name": "沪深300指数",
+            "product": "IDX"
+        },
+        "399301": {
+            "code": "399301",
+            "exchg": "SZSE",
+            "name": "深证信用债综合指数",
+            "product": "IDX"
+        },
+        "399302": {
+            "code": "399302",
+            "exchg": "SZSE",
+            "name": "深证公司债综合指数",
             "product": "IDX"
         },
         "399303": {
             "code": "399303",
             "exchg": "SZSE",
-            "name": "国证2000",
+            "name": "国证2000指数",
+            "product": "IDX"
+        },
+        "399306": {
+            "code": "399306",
+            "exchg": "SZSE",
+            "name": "深证ETF指数",
+            "product": "IDX"
+        },
+        "399307": {
+            "code": "399307",
+            "exchg": "SZSE",
+            "name": "深证可转债指数",
             "product": "IDX"
         },
         "399310": {
             "code": "399310",
             "exchg": "SZSE",
-            "name": "国证A50",
+            "name": "国证A50指数",
             "product": "IDX"
         },
         "399311": {
             "code": "399311",
             "exchg": "SZSE",
-            "name": "国证1000",
+            "name": "国证1000指数",
             "product": "IDX"
         },
         "399312": {
             "code": "399312",
             "exchg": "SZSE",
-            "name": "国证300",
+            "name": "国证300指数",
             "product": "IDX"
         },
         "399313": {
             "code": "399313",
             "exchg": "SZSE",
-            "name": "巨潮100",
+            "name": "巨潮100指数",
             "product": "IDX"
         },
         "399314": {
             "code": "399314",
             "exchg": "SZSE",
-            "name": "巨潮大盘",
+            "name": "巨潮大盘指数",
             "product": "IDX"
         },
         "399315": {
             "code": "399315",
             "exchg": "SZSE",
-            "name": "巨潮中盘",
+            "name": "巨潮中盘指数",
             "product": "IDX"
         },
         "399316": {
             "code": "399316",
             "exchg": "SZSE",
-            "name": "巨潮小盘",
+            "name": "巨潮小盘指数",
             "product": "IDX"
         },
         "399317": {
             "code": "399317",
             "exchg": "SZSE",
-            "name": "国证A指",
+            "name": "国证A股指数",
             "product": "IDX"
         },
         "399318": {
             "code": "399318",
             "exchg": "SZSE",
-            "name": "国证B指",
+            "name": "国证B股指数",
             "product": "IDX"
         },
         "399319": {
             "code": "399319",
             "exchg": "SZSE",
-            "name": "资源优势",
+            "name": "国证资源优势指数",
             "product": "IDX"
         },
         "399320": {
             "code": "399320",
             "exchg": "SZSE",
-            "name": "国证服务",
+            "name": "国证公共服务指数",
             "product": "IDX"
         },
         "399321": {
             "code": "399321",
             "exchg": "SZSE",
-            "name": "国证红利",
+            "name": "国证红利指数",
             "product": "IDX"
         },
         "399322": {
             "code": "399322",
             "exchg": "SZSE",
-            "name": "国证治理",
+            "name": "国证治理指数",
             "product": "IDX"
         },
         "399324": {
             "code": "399324",
             "exchg": "SZSE",
-            "name": "深证红利",
+            "name": "深证红利指数",
             "product": "IDX"
         },
         "399326": {
             "code": "399326",
             "exchg": "SZSE",
-            "name": "成长40",
+            "name": "深证成长40指数",
             "product": "IDX"
         },
         "399328": {
             "code": "399328",
             "exchg": "SZSE",
-            "name": "深证治理",
-            "product": "IDX"
-        },
-        "399329": {
-            "code": "399329",
-            "exchg": "SZSE",
-            "name": "中小板100指数P(退市)",
+            "name": "深证治理指数",
             "product": "IDX"
         },
         "399330": {
             "code": "399330",
             "exchg": "SZSE",
-            "name": "深证100",
-            "product": "IDX"
-        },
-        "399332": {
-            "code": "399332",
-            "exchg": "SZSE",
-            "name": "深证创新(旧)(退市)",
+            "name": "深证100指数(价格)",
             "product": "IDX"
         },
         "399333": {
             "code": "399333",
             "exchg": "SZSE",
-            "name": "中小100R",
+            "name": "中小企业100全收益指数",
             "product": "IDX"
         },
         "399335": {
             "code": "399335",
             "exchg": "SZSE",
-            "name": "深证央企",
+            "name": "深证央企指数",
             "product": "IDX"
         },
         "399337": {
             "code": "399337",
             "exchg": "SZSE",
-            "name": "深证民营",
+            "name": "深证民营指数",
             "product": "IDX"
         },
         "399339": {
             "code": "399339",
             "exchg": "SZSE",
-            "name": "深证科技",
+            "name": "深证科技指数",
             "product": "IDX"
         },
         "399341": {
             "code": "399341",
             "exchg": "SZSE",
-            "name": "深证责任",
+            "name": "深证责任指数",
             "product": "IDX"
         },
         "399344": {
             "code": "399344",
             "exchg": "SZSE",
-            "name": "深证300R",
+            "name": "深证300指数(收益)",
             "product": "IDX"
         },
         "399346": {
             "code": "399346",
             "exchg": "SZSE",
-            "name": "深证成长",
+            "name": "深证300成长指数",
             "product": "IDX"
         },
         "399348": {
             "code": "399348",
             "exchg": "SZSE",
-            "name": "深证价值",
+            "name": "深证300价值指数",
             "product": "IDX"
         },
         "399350": {
             "code": "399350",
             "exchg": "SZSE",
-            "name": "皖江30",
+            "name": "国证皖江30指数",
             "product": "IDX"
         },
         "399351": {
             "code": "399351",
             "exchg": "SZSE",
-            "name": "创新示范",
+            "name": "国证深圳创新示范100指数",
             "product": "IDX"
         },
         "399352": {
             "code": "399352",
             "exchg": "SZSE",
-            "name": "深企综指",
+            "name": "国证深圳企业综合指数",
             "product": "IDX"
         },
         "399353": {
             "code": "399353",
             "exchg": "SZSE",
-            "name": "国证物流",
-            "product": "IDX"
-        },
-        "399354": {
-            "code": "399354",
-            "exchg": "SZSE",
-            "name": "分析师指数",
+            "name": "国证物流行业指数",
             "product": "IDX"
         },
         "399355": {
             "code": "399355",
             "exchg": "SZSE",
-            "name": "CBN长江",
+            "name": "国证长三角指数",
             "product": "IDX"
         },
         "399356": {
             "code": "399356",
             "exchg": "SZSE",
-            "name": "CBN珠江",
+            "name": "国证珠三角指数",
             "product": "IDX"
         },
         "399357": {
             "code": "399357",
             "exchg": "SZSE",
-            "name": "CBN渤海",
+            "name": "国证环渤海指数",
             "product": "IDX"
         },
         "399358": {
             "code": "399358",
             "exchg": "SZSE",
-            "name": "国证环保",
+            "name": "国证环保指数",
             "product": "IDX"
         },
         "399359": {
             "code": "399359",
             "exchg": "SZSE",
-            "name": "国证基建",
+            "name": "国证基建指数",
             "product": "IDX"
         },
         "399360": {
             "code": "399360",
             "exchg": "SZSE",
-            "name": "新硬件",
+            "name": "国证新硬件产业指数",
             "product": "IDX"
         },
         "399361": {
             "code": "399361",
             "exchg": "SZSE",
-            "name": "在线消费",
+            "name": "国证在线消费指数",
             "product": "IDX"
         },
         "399362": {
             "code": "399362",
             "exchg": "SZSE",
-            "name": "民企100",
+            "name": "国证民企领先100指数",
             "product": "IDX"
         },
         "399363": {
             "code": "399363",
             "exchg": "SZSE",
-            "name": "国证算力",
+            "name": "国证算力基础设施主题指数",
             "product": "IDX"
         },
         "399364": {
             "code": "399364",
             "exchg": "SZSE",
-            "name": "消费100",
+            "name": "国证消费100指数",
             "product": "IDX"
         },
         "399365": {
             "code": "399365",
             "exchg": "SZSE",
-            "name": "国证粮食",
+            "name": "国证粮食产业指数",
             "product": "IDX"
         },
         "399366": {
             "code": "399366",
             "exchg": "SZSE",
-            "name": "能源金属",
+            "name": "国证能源金属指数",
             "product": "IDX"
         },
         "399367": {
             "code": "399367",
             "exchg": "SZSE",
-            "name": "1000地产",
+            "name": "国证1000房地产行业指数",
             "product": "IDX"
         },
         "399368": {
             "code": "399368",
             "exchg": "SZSE",
-            "name": "国证军工",
+            "name": "国证航天军工指数",
             "product": "IDX"
         },
         "399369": {
             "code": "399369",
             "exchg": "SZSE",
-            "name": "国证责任",
+            "name": "国证社会责任指数",
             "product": "IDX"
         },
         "399370": {
             "code": "399370",
             "exchg": "SZSE",
-            "name": "国证成长",
+            "name": "国证1000成长指数",
             "product": "IDX"
         },
         "399371": {
             "code": "399371",
             "exchg": "SZSE",
-            "name": "国证价值",
+            "name": "国证1000价值指数",
             "product": "IDX"
         },
         "399372": {
             "code": "399372",
             "exchg": "SZSE",
-            "name": "大盘成长",
+            "name": "巨潮大盘成长指数",
             "product": "IDX"
         },
         "399373": {
             "code": "399373",
             "exchg": "SZSE",
-            "name": "大盘价值",
+            "name": "巨潮大盘价值指数",
             "product": "IDX"
         },
         "399374": {
             "code": "399374",
             "exchg": "SZSE",
-            "name": "中盘成长",
+            "name": "巨潮中盘成长指数",
             "product": "IDX"
         },
         "399375": {
             "code": "399375",
             "exchg": "SZSE",
-            "name": "中盘价值",
+            "name": "巨潮中盘价值指数",
             "product": "IDX"
         },
         "399376": {
             "code": "399376",
             "exchg": "SZSE",
-            "name": "小盘成长",
+            "name": "巨潮小盘成长指数",
             "product": "IDX"
         },
         "399377": {
             "code": "399377",
             "exchg": "SZSE",
-            "name": "小盘价值",
+            "name": "巨潮小盘价值指数",
             "product": "IDX"
         },
         "399378": {
             "code": "399378",
             "exchg": "SZSE",
-            "name": "ESG 300",
+            "name": "国证ESG300指数",
+            "product": "IDX"
+        },
+        "399379": {
+            "code": "399379",
+            "exchg": "SZSE",
+            "name": "国证基金指数",
+            "product": "IDX"
+        },
+        "399380": {
+            "code": "399380",
+            "exchg": "SZSE",
+            "name": "国证ETF指数",
             "product": "IDX"
         },
         "399381": {
             "code": "399381",
             "exchg": "SZSE",
-            "name": "1000能源",
+            "name": "国证1000能源行业指数",
             "product": "IDX"
         },
         "399382": {
             "code": "399382",
             "exchg": "SZSE",
-            "name": "1000材料",
+            "name": "国证1000原材料行业指数",
             "product": "IDX"
         },
         "399383": {
             "code": "399383",
             "exchg": "SZSE",
-            "name": "1000工业",
+            "name": "国证1000工业行业指数",
             "product": "IDX"
         },
         "399384": {
             "code": "399384",
             "exchg": "SZSE",
-            "name": "1000可选",
+            "name": "国证1000可选消费行业指数",
             "product": "IDX"
         },
         "399385": {
             "code": "399385",
             "exchg": "SZSE",
-            "name": "1000消费",
+            "name": "国证1000主要消费行业指数",
             "product": "IDX"
         },
         "399386": {
             "code": "399386",
             "exchg": "SZSE",
-            "name": "1000医药",
+            "name": "国证1000医药卫生行业指数",
             "product": "IDX"
         },
         "399387": {
             "code": "399387",
             "exchg": "SZSE",
-            "name": "1000金融",
+            "name": "国证1000金融地产行业指数",
             "product": "IDX"
         },
         "399388": {
             "code": "399388",
             "exchg": "SZSE",
-            "name": "1000信息",
+            "name": "国证1000信息技术行业指数",
             "product": "IDX"
         },
         "399389": {
             "code": "399389",
             "exchg": "SZSE",
-            "name": "国证通信",
+            "name": "国证通信指数",
             "product": "IDX"
         },
         "399390": {
             "code": "399390",
             "exchg": "SZSE",
-            "name": "1000公用",
+            "name": "国证1000公用事业行业指数",
             "product": "IDX"
         },
         "399391": {
             "code": "399391",
             "exchg": "SZSE",
-            "name": "投资时钟",
+            "name": "国证投资时钟指数",
             "product": "IDX"
         },
         "399392": {
             "code": "399392",
             "exchg": "SZSE",
-            "name": "国证新兴",
+            "name": "国证战略性新兴产业指数",
             "product": "IDX"
         },
         "399393": {
             "code": "399393",
             "exchg": "SZSE",
-            "name": "国证地产",
+            "name": "国证房地产行业指数",
             "product": "IDX"
         },
         "399394": {
             "code": "399394",
             "exchg": "SZSE",
-            "name": "国证医药",
+            "name": "国证医药卫生行业指数",
             "product": "IDX"
         },
         "399395": {
             "code": "399395",
             "exchg": "SZSE",
-            "name": "国证有色",
+            "name": "国证有色金属行业指数",
             "product": "IDX"
         },
         "399396": {
             "code": "399396",
             "exchg": "SZSE",
-            "name": "国证食品",
+            "name": "国证食品饮料行业指数",
             "product": "IDX"
         },
         "399397": {
             "code": "399397",
             "exchg": "SZSE",
-            "name": "国证文化",
+            "name": "国证文化产业指数",
             "product": "IDX"
         },
         "399398": {
             "code": "399398",
             "exchg": "SZSE",
-            "name": "绩效指数",
+            "name": "国证绩效指数",
             "product": "IDX"
         },
         "399399": {
             "code": "399399",
             "exchg": "SZSE",
-            "name": "中经GDP",
+            "name": "国证中经GDP指数",
             "product": "IDX"
         },
         "399400": {
             "code": "399400",
             "exchg": "SZSE",
-            "name": "大中盘",
+            "name": "巨潮大中盘指数",
             "product": "IDX"
         },
         "399401": {
             "code": "399401",
             "exchg": "SZSE",
-            "name": "中小盘",
+            "name": "巨潮中小盘指数",
             "product": "IDX"
         },
         "399402": {
             "code": "399402",
             "exchg": "SZSE",
-            "name": "周期100",
+            "name": "国证周期行业100指数",
             "product": "IDX"
         },
         "399403": {
             "code": "399403",
             "exchg": "SZSE",
-            "name": "防御100",
+            "name": "国证防御行业100指数",
             "product": "IDX"
         },
         "399404": {
             "code": "399404",
             "exchg": "SZSE",
-            "name": "大盘低波",
+            "name": "巨潮大盘低波动率指数",
             "product": "IDX"
         },
         "399405": {
             "code": "399405",
             "exchg": "SZSE",
-            "name": "大盘高贝",
+            "name": "巨潮大盘高贝塔指数",
             "product": "IDX"
         },
         "399406": {
             "code": "399406",
             "exchg": "SZSE",
-            "name": "中盘低波",
+            "name": "巨潮中盘低波动率指数",
             "product": "IDX"
         },
         "399407": {
             "code": "399407",
             "exchg": "SZSE",
-            "name": "中盘高贝",
+            "name": "巨潮中盘高贝塔指数",
             "product": "IDX"
         },
         "399408": {
             "code": "399408",
             "exchg": "SZSE",
-            "name": "小盘低波",
+            "name": "巨潮小盘低波动率指数",
             "product": "IDX"
         },
         "399409": {
             "code": "399409",
             "exchg": "SZSE",
-            "name": "小盘高贝",
+            "name": "巨潮小盘高贝塔指数",
             "product": "IDX"
         },
         "399410": {
             "code": "399410",
             "exchg": "SZSE",
-            "name": "苏州率先",
+            "name": "苏州率先指数",
             "product": "IDX"
         },
         "399411": {
             "code": "399411",
             "exchg": "SZSE",
-            "name": "红利100",
+            "name": "国证红利加权100指数",
             "product": "IDX"
         },
         "399412": {
             "code": "399412",
             "exchg": "SZSE",
-            "name": "国证新能",
+            "name": "国证新能源指数",
+            "product": "IDX"
+        },
+        "399413": {
+            "code": "399413",
+            "exchg": "SZSE",
+            "name": "国证可转债指数",
             "product": "IDX"
         },
         "399415": {
             "code": "399415",
             "exchg": "SZSE",
-            "name": "I100",
+            "name": "大数据100指数",
             "product": "IDX"
         },
         "399416": {
             "code": "399416",
             "exchg": "SZSE",
-            "name": "I300",
+            "name": "大数据300指数",
             "product": "IDX"
         },
         "399417": {
             "code": "399417",
             "exchg": "SZSE",
-            "name": "新能源车",
+            "name": "国证新能源汽车指数",
             "product": "IDX"
         },
         "399418": {
             "code": "399418",
             "exchg": "SZSE",
-            "name": "数据要素",
+            "name": "国证数据要素主题指数",
             "product": "IDX"
         },
         "399419": {
             "code": "399419",
             "exchg": "SZSE",
-            "name": "国证高铁",
+            "name": "国证高铁指数",
             "product": "IDX"
         },
         "399420": {
             "code": "399420",
             "exchg": "SZSE",
-            "name": "国证保证",
-            "product": "IDX"
-        },
-        "399422": {
-            "code": "399422",
-            "exchg": "SZSE",
-            "name": "中关村A",
+            "name": "国证保险证券指数",
             "product": "IDX"
         },
         "399423": {
             "code": "399423",
             "exchg": "SZSE",
-            "name": "中关村50",
+            "name": "中关村50指数",
             "product": "IDX"
         },
         "399427": {
             "code": "399427",
             "exchg": "SZSE",
-            "name": "专利领先",
+            "name": "国证专利领先指数",
             "product": "IDX"
         },
         "399428": {
             "code": "399428",
             "exchg": "SZSE",
-            "name": "国证定增",
+            "name": "国证定向增发指数",
             "product": "IDX"
         },
         "399429": {
             "code": "399429",
             "exchg": "SZSE",
-            "name": "新丝路",
+            "name": "新丝路指数",
             "product": "IDX"
         },
         "399431": {
             "code": "399431",
             "exchg": "SZSE",
-            "name": "国证银行",
+            "name": "国证银行行业指数",
             "product": "IDX"
         },
         "399432": {
             "code": "399432",
             "exchg": "SZSE",
-            "name": "智能汽车",
+            "name": "国证电动智能汽车指数",
             "product": "IDX"
         },
         "399433": {
             "code": "399433",
             "exchg": "SZSE",
-            "name": "国证交运",
+            "name": "国证交通运输行业指数",
             "product": "IDX"
         },
         "399434": {
             "code": "399434",
             "exchg": "SZSE",
-            "name": "国证传媒",
+            "name": "国证传媒行业指数",
             "product": "IDX"
         },
         "399435": {
             "code": "399435",
             "exchg": "SZSE",
-            "name": "国证农牧",
+            "name": "国证农牧渔产品行业指数",
             "product": "IDX"
         },
         "399436": {
             "code": "399436",
             "exchg": "SZSE",
-            "name": "绿色煤炭",
+            "name": "国证绿色煤炭指数",
             "product": "IDX"
         },
         "399437": {
             "code": "399437",
             "exchg": "SZSE",
-            "name": "证券龙头",
+            "name": "国证证券龙头指数",
             "product": "IDX"
         },
         "399438": {
             "code": "399438",
             "exchg": "SZSE",
-            "name": "绿色电力",
+            "name": "国证绿色电力指数",
             "product": "IDX"
         },
         "399439": {
             "code": "399439",
             "exchg": "SZSE",
-            "name": "国证油气",
+            "name": "国证石油天然气指数",
             "product": "IDX"
         },
         "399440": {
             "code": "399440",
             "exchg": "SZSE",
-            "name": "国证钢铁",
+            "name": "国证钢铁行业指数",
             "product": "IDX"
         },
         "399441": {
             "code": "399441",
             "exchg": "SZSE",
-            "name": "生物医药",
+            "name": "国证生物医药指数",
+            "product": "IDX"
+        },
+        "399481": {
+            "code": "399481",
+            "exchg": "SZSE",
+            "name": "国证企债指数",
             "product": "IDX"
         },
         "399550": {
             "code": "399550",
             "exchg": "SZSE",
-            "name": "央视50",
+            "name": "央视财经50指数",
             "product": "IDX"
         },
         "399551": {
             "code": "399551",
             "exchg": "SZSE",
-            "name": "央视创新",
+            "name": "央视财经50创新领先指数",
             "product": "IDX"
         },
         "399552": {
             "code": "399552",
             "exchg": "SZSE",
-            "name": "央视成长",
+            "name": "央视财经50成长领先指数",
             "product": "IDX"
         },
         "399553": {
             "code": "399553",
             "exchg": "SZSE",
-            "name": "央视回报",
+            "name": "央视财经50回报领先指数",
             "product": "IDX"
         },
         "399554": {
             "code": "399554",
             "exchg": "SZSE",
-            "name": "央视治理",
+            "name": "央视财经50治理领先指数",
             "product": "IDX"
         },
         "399555": {
             "code": "399555",
             "exchg": "SZSE",
-            "name": "央视责任",
+            "name": "央视财经50责任领先指数",
             "product": "IDX"
         },
         "399556": {
             "code": "399556",
             "exchg": "SZSE",
-            "name": "央视生态",
+            "name": "央视生态产业指数",
             "product": "IDX"
         },
         "399557": {
             "code": "399557",
             "exchg": "SZSE",
-            "name": "央视文化",
+            "name": "央视文化产业指数",
             "product": "IDX"
         },
         "399602": {
             "code": "399602",
             "exchg": "SZSE",
-            "name": "中小成长",
+            "name": "中小板300成长指数",
             "product": "IDX"
         },
         "399604": {
             "code": "399604",
             "exchg": "SZSE",
-            "name": "中小价值",
+            "name": "中小板300价值指数",
             "product": "IDX"
         },
         "399606": {
             "code": "399606",
             "exchg": "SZSE",
-            "name": "创业板R",
+            "name": "创业板指数(收益)",
             "product": "IDX"
         },
         "399608": {
             "code": "399608",
             "exchg": "SZSE",
-            "name": "科技100",
+            "name": "国证科技100指数",
             "product": "IDX"
         },
         "399610": {
             "code": "399610",
             "exchg": "SZSE",
-            "name": "TMT50",
+            "name": "深证电子信息传媒产业50指数",
             "product": "IDX"
         },
         "399611": {
             "code": "399611",
             "exchg": "SZSE",
-            "name": "中创100R",
+            "name": "中小企业板创业板100指数(收益)",
             "product": "IDX"
         },
         "399612": {
             "code": "399612",
             "exchg": "SZSE",
-            "name": "中创100",
+            "name": "中小创业企业100指数",
             "product": "IDX"
         },
         "399613": {
             "code": "399613",
             "exchg": "SZSE",
-            "name": "深证能源",
+            "name": "深证能源指数",
             "product": "IDX"
         },
         "399614": {
             "code": "399614",
             "exchg": "SZSE",
-            "name": "深证材料",
+            "name": "深证原材料行业指数",
             "product": "IDX"
         },
         "399615": {
             "code": "399615",
             "exchg": "SZSE",
-            "name": "深证工业",
+            "name": "深证工业行业指数",
             "product": "IDX"
         },
         "399616": {
             "code": "399616",
             "exchg": "SZSE",
-            "name": "深证可选",
+            "name": "深证可选消费行业指数",
             "product": "IDX"
         },
         "399617": {
             "code": "399617",
             "exchg": "SZSE",
-            "name": "深证消费",
+            "name": "深证主要消费行业指数",
             "product": "IDX"
         },
         "399618": {
             "code": "399618",
             "exchg": "SZSE",
-            "name": "深证医药",
+            "name": "深证医药卫生行业指数",
             "product": "IDX"
         },
         "399619": {
             "code": "399619",
             "exchg": "SZSE",
-            "name": "深证金融",
+            "name": "深证金融地产行业指数",
             "product": "IDX"
         },
         "399620": {
             "code": "399620",
             "exchg": "SZSE",
-            "name": "深证信息",
+            "name": "深证信息技术行业指数",
             "product": "IDX"
         },
         "399621": {
             "code": "399621",
             "exchg": "SZSE",
-            "name": "深证电信",
+            "name": "深证电信业务行业指数",
             "product": "IDX"
         },
         "399622": {
             "code": "399622",
             "exchg": "SZSE",
-            "name": "深证公用",
+            "name": "深证公用事业行业指数",
             "product": "IDX"
         },
         "399623": {
             "code": "399623",
             "exchg": "SZSE",
-            "name": "中小基础",
+            "name": "中小企业基础市场指数",
             "product": "IDX"
         },
         "399624": {
             "code": "399624",
             "exchg": "SZSE",
-            "name": "中创400",
+            "name": "中小创业企业400指数",
             "product": "IDX"
         },
         "399625": {
             "code": "399625",
             "exchg": "SZSE",
-            "name": "中创500",
+            "name": "中小创业企业500指数",
             "product": "IDX"
         },
         "399626": {
             "code": "399626",
             "exchg": "SZSE",
-            "name": "中创成长",
+            "name": "中小创业企业成长指数",
             "product": "IDX"
         },
         "399627": {
             "code": "399627",
             "exchg": "SZSE",
-            "name": "中创价值",
+            "name": "中小创业企业价值指数",
             "product": "IDX"
         },
         "399628": {
             "code": "399628",
             "exchg": "SZSE",
-            "name": "700成长",
+            "name": "深证700成长指数",
             "product": "IDX"
         },
         "399629": {
             "code": "399629",
             "exchg": "SZSE",
-            "name": "700价值",
+            "name": "深证700价值指数",
             "product": "IDX"
         },
         "399630": {
             "code": "399630",
             "exchg": "SZSE",
-            "name": "1000成长",
+            "name": "深证1000成长指数",
             "product": "IDX"
         },
         "399631": {
             "code": "399631",
             "exchg": "SZSE",
-            "name": "1000价值",
+            "name": "深证1000价值指数",
             "product": "IDX"
         },
         "399632": {
             "code": "399632",
             "exchg": "SZSE",
-            "name": "深100EW",
+            "name": "深证100等权重指数",
             "product": "IDX"
         },
         "399633": {
             "code": "399633",
             "exchg": "SZSE",
-            "name": "深300EW",
+            "name": "深证300等权重指数",
             "product": "IDX"
         },
         "399634": {
             "code": "399634",
             "exchg": "SZSE",
-            "name": "中小等权",
+            "name": "中小企业100等权重指数",
             "product": "IDX"
         },
         "399635": {
             "code": "399635",
             "exchg": "SZSE",
-            "name": "创业板EW",
+            "name": "创业板等权重指数",
             "product": "IDX"
         },
         "399636": {
             "code": "399636",
             "exchg": "SZSE",
-            "name": "深证装备",
+            "name": "深证装备指数",
             "product": "IDX"
         },
         "399637": {
             "code": "399637",
             "exchg": "SZSE",
-            "name": "深证地产",
+            "name": "深证地产指数",
             "product": "IDX"
         },
         "399638": {
             "code": "399638",
             "exchg": "SZSE",
-            "name": "深证环保",
+            "name": "深证环保指数",
             "product": "IDX"
         },
         "399639": {
             "code": "399639",
             "exchg": "SZSE",
-            "name": "深证大宗",
+            "name": "深证大宗商品生产商指数",
             "product": "IDX"
         },
         "399640": {
             "code": "399640",
             "exchg": "SZSE",
-            "name": "创业基础",
+            "name": "创业板基础市场指数",
             "product": "IDX"
         },
         "399641": {
             "code": "399641",
             "exchg": "SZSE",
-            "name": "深证新兴",
+            "name": "深证战略性新兴产业指数",
             "product": "IDX"
         },
         "399642": {
             "code": "399642",
             "exchg": "SZSE",
-            "name": "中小新兴",
+            "name": "中小企业战略性新兴产业指数",
             "product": "IDX"
         },
         "399643": {
             "code": "399643",
             "exchg": "SZSE",
-            "name": "创业新兴",
+            "name": "创业板战略性新兴产业指数",
             "product": "IDX"
         },
         "399644": {
             "code": "399644",
             "exchg": "SZSE",
-            "name": "深证时钟",
+            "name": "深证色诺芬投资时钟指数",
             "product": "IDX"
         },
         "399645": {
             "code": "399645",
             "exchg": "SZSE",
-            "name": "100低波",
+            "name": "深证100低波动率指数",
             "product": "IDX"
         },
         "399646": {
             "code": "399646",
             "exchg": "SZSE",
-            "name": "深消费50",
+            "name": "深证消费50指数",
             "product": "IDX"
         },
         "399647": {
             "code": "399647",
             "exchg": "SZSE",
-            "name": "深医药50",
+            "name": "深证医药50指数",
             "product": "IDX"
         },
         "399648": {
             "code": "399648",
             "exchg": "SZSE",
-            "name": "深证GDP",
+            "name": "深证中经矢量GDP100指数",
             "product": "IDX"
         },
         "399649": {
             "code": "399649",
             "exchg": "SZSE",
-            "name": "中小红利",
+            "name": "中小企业红利指数",
             "product": "IDX"
         },
         "399650": {
             "code": "399650",
             "exchg": "SZSE",
-            "name": "中小治理",
+            "name": "中小企业治理指数",
             "product": "IDX"
         },
         "399651": {
             "code": "399651",
             "exchg": "SZSE",
-            "name": "中小责任",
+            "name": "中小企业社会责任指数",
             "product": "IDX"
         },
         "399652": {
             "code": "399652",
             "exchg": "SZSE",
-            "name": "中创高新",
+            "name": "中创高新技术企业指数",
             "product": "IDX"
         },
         "399653": {
             "code": "399653",
             "exchg": "SZSE",
-            "name": "深证龙头",
+            "name": "深证行业龙头指数",
             "product": "IDX"
         },
         "399654": {
             "code": "399654",
             "exchg": "SZSE",
-            "name": "深证文化",
+            "name": "深证文化产业指数",
             "product": "IDX"
         },
         "399655": {
             "code": "399655",
             "exchg": "SZSE",
-            "name": "深证绩效",
+            "name": "深证绩效指数",
             "product": "IDX"
         },
         "399656": {
             "code": "399656",
             "exchg": "SZSE",
-            "name": "100绩效",
+            "name": "深证100绩效加权指数",
             "product": "IDX"
         },
         "399657": {
             "code": "399657",
             "exchg": "SZSE",
-            "name": "300绩效",
+            "name": "深证300绩效加权指数",
             "product": "IDX"
         },
         "399658": {
             "code": "399658",
             "exchg": "SZSE",
-            "name": "中小绩效",
+            "name": "中小100绩效加权指数",
             "product": "IDX"
         },
         "399659": {
             "code": "399659",
             "exchg": "SZSE",
-            "name": "深成指EW",
+            "name": "深证成份等权重指数",
             "product": "IDX"
         },
         "399660": {
             "code": "399660",
             "exchg": "SZSE",
-            "name": "中创EW",
+            "name": "中创100等权重指数",
             "product": "IDX"
         },
         "399661": {
             "code": "399661",
             "exchg": "SZSE",
-            "name": "深证低波",
+            "name": "深证300低波动率指数",
             "product": "IDX"
         },
         "399662": {
             "code": "399662",
             "exchg": "SZSE",
-            "name": "深证高贝",
+            "name": "深证300高贝塔指数",
             "product": "IDX"
         },
         "399663": {
             "code": "399663",
             "exchg": "SZSE",
-            "name": "中小低波",
+            "name": "中小300低波动率指数",
             "product": "IDX"
         },
         "399664": {
             "code": "399664",
             "exchg": "SZSE",
-            "name": "中小高贝",
+            "name": "中小300高贝塔指数",
             "product": "IDX"
         },
         "399665": {
             "code": "399665",
             "exchg": "SZSE",
-            "name": "中创低波",
+            "name": "中创500低波动率指数",
             "product": "IDX"
         },
         "399666": {
             "code": "399666",
             "exchg": "SZSE",
-            "name": "中创高贝",
+            "name": "中创500高贝塔指数",
             "product": "IDX"
         },
         "399667": {
             "code": "399667",
             "exchg": "SZSE",
-            "name": "创业板G",
+            "name": "创业板300成长指数",
             "product": "IDX"
         },
         "399668": {
             "code": "399668",
             "exchg": "SZSE",
-            "name": "创业板V",
+            "name": "创业板300价值指数",
             "product": "IDX"
         },
         "399669": {
             "code": "399669",
             "exchg": "SZSE",
-            "name": "深证农业",
+            "name": "深证农业综合企业指数",
             "product": "IDX"
         },
         "399670": {
             "code": "399670",
             "exchg": "SZSE",
-            "name": "深周期50",
+            "name": "深证周期行业50指数",
             "product": "IDX"
         },
         "399671": {
             "code": "399671",
             "exchg": "SZSE",
-            "name": "深防御50",
+            "name": "深证防御行业50指数",
             "product": "IDX"
         },
         "399672": {
             "code": "399672",
             "exchg": "SZSE",
-            "name": "深红利50",
+            "name": "深证红利50加权指数",
             "product": "IDX"
         },
         "399673": {
             "code": "399673",
             "exchg": "SZSE",
-            "name": "创业板50",
+            "name": "创业板50指数",
             "product": "IDX"
         },
         "399674": {
             "code": "399674",
             "exchg": "SZSE",
-            "name": "深A医药",
+            "name": "深A医药卫生指数",
             "product": "IDX"
         },
         "399675": {
             "code": "399675",
             "exchg": "SZSE",
-            "name": "深互联网",
+            "name": "深A软件与互联网指数",
             "product": "IDX"
         },
         "399676": {
             "code": "399676",
             "exchg": "SZSE",
-            "name": "深医药EW",
+            "name": "深A医药卫生等权指数",
             "product": "IDX"
         },
         "399677": {
             "code": "399677",
             "exchg": "SZSE",
-            "name": "深互联EW",
+            "name": "深A软件与互联网等权指数",
             "product": "IDX"
         },
         "399678": {
             "code": "399678",
             "exchg": "SZSE",
-            "name": "深次新股",
+            "name": "深证次新股指数",
             "product": "IDX"
         },
         "399679": {
             "code": "399679",
             "exchg": "SZSE",
-            "name": "深证200R",
+            "name": "深证200收益指数",
             "product": "IDX"
         },
         "399680": {
             "code": "399680",
             "exchg": "SZSE",
-            "name": "深成能源",
+            "name": "深成能源行业指数",
             "product": "IDX"
         },
         "399681": {
             "code": "399681",
             "exchg": "SZSE",
-            "name": "深成材料",
+            "name": "深成原材料行业指数",
             "product": "IDX"
         },
         "399682": {
             "code": "399682",
             "exchg": "SZSE",
-            "name": "深成工业",
+            "name": "深成工业行业指数",
             "product": "IDX"
         },
         "399683": {
             "code": "399683",
             "exchg": "SZSE",
-            "name": "深成可选",
+            "name": "深成可选消费行业指数",
             "product": "IDX"
         },
         "399684": {
             "code": "399684",
             "exchg": "SZSE",
-            "name": "深成消费",
+            "name": "深成主要消费行业指数",
             "product": "IDX"
         },
         "399685": {
             "code": "399685",
             "exchg": "SZSE",
-            "name": "深成医药",
+            "name": "深成医药卫生行业指数",
             "product": "IDX"
         },
         "399686": {
             "code": "399686",
             "exchg": "SZSE",
-            "name": "深成金融",
+            "name": "深成金融地产行业指数",
             "product": "IDX"
         },
         "399687": {
             "code": "399687",
             "exchg": "SZSE",
-            "name": "深成信息",
+            "name": "深成信息技术行业指数",
             "product": "IDX"
         },
         "399688": {
             "code": "399688",
             "exchg": "SZSE",
-            "name": "深成电信",
+            "name": "深成电信业务行业指数",
             "product": "IDX"
         },
         "399689": {
             "code": "399689",
             "exchg": "SZSE",
-            "name": "深成公用",
-            "product": "IDX"
-        },
-        "399690": {
-            "code": "399690",
-            "exchg": "SZSE",
-            "name": "中小专利",
-            "product": "IDX"
-        },
-        "399691": {
-            "code": "399691",
-            "exchg": "SZSE",
-            "name": "创业专利",
-            "product": "IDX"
-        },
-        "399692": {
-            "code": "399692",
-            "exchg": "SZSE",
-            "name": "创业低波",
-            "product": "IDX"
-        },
-        "399693": {
-            "code": "399693",
-            "exchg": "SZSE",
-            "name": "安防产业",
-            "product": "IDX"
-        },
-        "399694": {
-            "code": "399694",
-            "exchg": "SZSE",
-            "name": "创业高贝",
-            "product": "IDX"
-        },
-        "399695": {
-            "code": "399695",
-            "exchg": "SZSE",
-            "name": "深证节能",
-            "product": "IDX"
-        },
-        "399696": {
-            "code": "399696",
-            "exchg": "SZSE",
-            "name": "深证创投",
-            "product": "IDX"
-        },
-        "399697": {
-            "code": "399697",
-            "exchg": "SZSE",
-            "name": "中关村60",
-            "product": "IDX"
-        },
-        "399698": {
-            "code": "399698",
-            "exchg": "SZSE",
-            "name": "优势成长",
-            "product": "IDX"
-        },
-        "399699": {
-            "code": "399699",
-            "exchg": "SZSE",
-            "name": "金融科技",
+            "name": "深成公用事业行业指数",
             "product": "IDX"
         },
         "399701": {
             "code": "399701",
             "exchg": "SZSE",
-            "name": "深证F60",
+            "name": "深证基本面60指数",
             "product": "IDX"
         },
         "399702": {
             "code": "399702",
             "exchg": "SZSE",
-            "name": "深证F120",
+            "name": "深证基本面120指数",
             "product": "IDX"
         },
         "399703": {
             "code": "399703",
             "exchg": "SZSE",
-            "name": "深证F200",
+            "name": "深证基本面200指数",
             "product": "IDX"
         },
         "399704": {
             "code": "399704",
             "exchg": "SZSE",
-            "name": "深证上游",
+            "name": "深证上游产业指数",
             "product": "IDX"
         },
         "399705": {
             "code": "399705",
             "exchg": "SZSE",
-            "name": "深证中游",
+            "name": "深证中游产业指数",
             "product": "IDX"
         },
         "399706": {
             "code": "399706",
             "exchg": "SZSE",
-            "name": "深证下游",
-            "product": "IDX"
-        },
-        "399707": {
-            "code": "399707",
-            "exchg": "SZSE",
-            "name": "CSSW证券",
+            "name": "深证下游产业指数",
             "product": "IDX"
         },
         "399802": {
             "code": "399802",
             "exchg": "SZSE",
-            "name": "500深市",
+            "name": "中证500深市指数",
             "product": "IDX"
         },
         "399803": {
             "code": "399803",
             "exchg": "SZSE",
-            "name": "工业4.0",
+            "name": "中证工业4.0指数",
             "product": "IDX"
         },
         "399804": {
             "code": "399804",
             "exchg": "SZSE",
-            "name": "中证体育",
+            "name": "中证体育产业指数",
             "product": "IDX"
         },
         "399805": {
             "code": "399805",
             "exchg": "SZSE",
-            "name": "互联金融",
+            "name": "中证互联网金融指数",
             "product": "IDX"
         },
         "399806": {
             "code": "399806",
             "exchg": "SZSE",
-            "name": "环境治理",
+            "name": "中证环境治理指数",
             "product": "IDX"
         },
         "399807": {
             "code": "399807",
             "exchg": "SZSE",
-            "name": "高铁产业",
+            "name": "中证高铁产业指数",
             "product": "IDX"
         },
         "399808": {
             "code": "399808",
             "exchg": "SZSE",
-            "name": "中证新能",
+            "name": "中证新能源指数",
             "product": "IDX"
         },
         "399809": {
             "code": "399809",
             "exchg": "SZSE",
-            "name": "保险主题",
-            "product": "IDX"
-        },
-        "399810": {
-            "code": "399810",
-            "exchg": "SZSE",
-            "name": "CSSW传媒",
-            "product": "IDX"
-        },
-        "399811": {
-            "code": "399811",
-            "exchg": "SZSE",
-            "name": "CSSW电子",
+            "name": "中证方正富邦保险主题指数",
             "product": "IDX"
         },
         "399812": {
             "code": "399812",
             "exchg": "SZSE",
-            "name": "养老产业",
+            "name": "中证养老产业指数",
             "product": "IDX"
         },
         "399813": {
             "code": "399813",
             "exchg": "SZSE",
-            "name": "中证国安",
+            "name": "中证国防安全指数",
             "product": "IDX"
         },
         "399814": {
             "code": "399814",
             "exchg": "SZSE",
-            "name": "大农业",
-            "product": "IDX"
-        },
-        "399850": {
-            "code": "399850",
-            "exchg": "SZSE",
-            "name": "深证50",
-            "product": "IDX"
-        },
-        "399852": {
-            "code": "399852",
-            "exchg": "SZSE",
-            "name": "中证1000",
+            "name": "中证大农业指数",
             "product": "IDX"
         },
         "399901": {
             "code": "399901",
             "exchg": "SZSE",
-            "name": "小康指数",
-            "product": "IDX"
-        },
-        "399902": {
-            "code": "399902",
-            "exchg": "SZSE",
-            "name": "中证流通(退市)",
+            "name": "中证南方小康产业指数",
             "product": "IDX"
         },
         "399903": {
             "code": "399903",
             "exchg": "SZSE",
-            "name": "中证100",
-            "product": "IDX"
-        },
-        "399904": {
-            "code": "399904",
-            "exchg": "SZSE",
-            "name": "中证200(退市)",
+            "name": "中证100指数",
             "product": "IDX"
         },
         "399905": {
             "code": "399905",
             "exchg": "SZSE",
-            "name": "中证500",
-            "product": "IDX"
-        },
-        "399906": {
-            "code": "399906",
-            "exchg": "SZSE",
-            "name": "中证800(退市)",
-            "product": "IDX"
-        },
-        "399907": {
-            "code": "399907",
-            "exchg": "SZSE",
-            "name": "中证700(退市)",
-            "product": "IDX"
-        },
-        "399908": {
-            "code": "399908",
-            "exchg": "SZSE",
-            "name": "沪深300能源(退市)",
-            "product": "IDX"
-        },
-        "399909": {
-            "code": "399909",
-            "exchg": "SZSE",
-            "name": "沪深300材料(退市)",
-            "product": "IDX"
-        },
-        "399910": {
-            "code": "399910",
-            "exchg": "SZSE",
-            "name": "沪深300工业(退市)",
-            "product": "IDX"
-        },
-        "399911": {
-            "code": "399911",
-            "exchg": "SZSE",
-            "name": "沪深300可选(退市)",
-            "product": "IDX"
-        },
-        "399912": {
-            "code": "399912",
-            "exchg": "SZSE",
-            "name": "沪深300消费(退市)",
+            "name": "中证500指数",
             "product": "IDX"
         },
         "399913": {
             "code": "399913",
             "exchg": "SZSE",
-            "name": "沪深300医药",
+            "name": "沪深300医药卫生指数",
             "product": "IDX"
         },
         "399914": {
             "code": "399914",
             "exchg": "SZSE",
-            "name": "沪深300金融",
-            "product": "IDX"
-        },
-        "399915": {
-            "code": "399915",
-            "exchg": "SZSE",
-            "name": "沪深300信息(退市)",
-            "product": "IDX"
-        },
-        "399916": {
-            "code": "399916",
-            "exchg": "SZSE",
-            "name": "沪深300电信(退市)",
-            "product": "IDX"
-        },
-        "399917": {
-            "code": "399917",
-            "exchg": "SZSE",
-            "name": "沪深300公用(退市)",
-            "product": "IDX"
-        },
-        "399918": {
-            "code": "399918",
-            "exchg": "SZSE",
-            "name": "沪深300成长(退市)",
-            "product": "IDX"
-        },
-        "399919": {
-            "code": "399919",
-            "exchg": "SZSE",
-            "name": "沪深300价值(退市)",
-            "product": "IDX"
-        },
-        "399920": {
-            "code": "399920",
-            "exchg": "SZSE",
-            "name": "沪深300R成长(退市)",
-            "product": "IDX"
-        },
-        "399921": {
-            "code": "399921",
-            "exchg": "SZSE",
-            "name": "沪深300R价值(退市)",
-            "product": "IDX"
-        },
-        "399922": {
-            "code": "399922",
-            "exchg": "SZSE",
-            "name": "中证红利(退市)",
-            "product": "IDX"
-        },
-        "399925": {
-            "code": "399925",
-            "exchg": "SZSE",
-            "name": "基本面50(退市)",
-            "product": "IDX"
-        },
-        "399926": {
-            "code": "399926",
-            "exchg": "SZSE",
-            "name": "中证央企(退市)",
-            "product": "IDX"
-        },
-        "399927": {
-            "code": "399927",
-            "exchg": "SZSE",
-            "name": "央企100(退市)",
+            "name": "沪深300金融地产指数",
             "product": "IDX"
         },
         "399928": {
             "code": "399928",
             "exchg": "SZSE",
-            "name": "800能源",
-            "product": "IDX"
-        },
-        "399929": {
-            "code": "399929",
-            "exchg": "SZSE",
-            "name": "中证材料(退市)",
-            "product": "IDX"
-        },
-        "399930": {
-            "code": "399930",
-            "exchg": "SZSE",
-            "name": "中证工业(退市)",
-            "product": "IDX"
-        },
-        "399931": {
-            "code": "399931",
-            "exchg": "SZSE",
-            "name": "中证可选(退市)",
+            "name": "中证能源指数",
             "product": "IDX"
         },
         "399932": {
             "code": "399932",
             "exchg": "SZSE",
-            "name": "800消费",
+            "name": "中证主要消费指数",
             "product": "IDX"
         },
         "399933": {
             "code": "399933",
             "exchg": "SZSE",
-            "name": "800医药",
+            "name": "中证医药卫生指数",
             "product": "IDX"
         },
         "399934": {
             "code": "399934",
             "exchg": "SZSE",
-            "name": "800金地",
+            "name": "中证金融地产指数",
             "product": "IDX"
         },
         "399935": {
             "code": "399935",
             "exchg": "SZSE",
-            "name": "800信息",
-            "product": "IDX"
-        },
-        "399936": {
-            "code": "399936",
-            "exchg": "SZSE",
-            "name": "中证电信(退市)",
-            "product": "IDX"
-        },
-        "399937": {
-            "code": "399937",
-            "exchg": "SZSE",
-            "name": "中证公用(退市)",
-            "product": "IDX"
-        },
-        "399938": {
-            "code": "399938",
-            "exchg": "SZSE",
-            "name": "中证民企(退市)",
-            "product": "IDX"
-        },
-        "399939": {
-            "code": "399939",
-            "exchg": "SZSE",
-            "name": "民企200(退市)",
-            "product": "IDX"
-        },
-        "399940": {
-            "code": "399940",
-            "exchg": "SZSE",
-            "name": "财富大盘(退市)",
-            "product": "IDX"
-        },
-        "399941": {
-            "code": "399941",
-            "exchg": "SZSE",
-            "name": "新能源(退市)",
-            "product": "IDX"
-        },
-        "399942": {
-            "code": "399942",
-            "exchg": "SZSE",
-            "name": "内地消费(退市)",
-            "product": "IDX"
-        },
-        "399943": {
-            "code": "399943",
-            "exchg": "SZSE",
-            "name": "新基建50(退市)",
-            "product": "IDX"
-        },
-        "399944": {
-            "code": "399944",
-            "exchg": "SZSE",
-            "name": "内地资源(退市)",
-            "product": "IDX"
-        },
-        "399945": {
-            "code": "399945",
-            "exchg": "SZSE",
-            "name": "内地运输(退市)",
-            "product": "IDX"
-        },
-        "399946": {
-            "code": "399946",
-            "exchg": "SZSE",
-            "name": "内地金融(退市)",
-            "product": "IDX"
-        },
-        "399947": {
-            "code": "399947",
-            "exchg": "SZSE",
-            "name": "内地银行(退市)",
-            "product": "IDX"
-        },
-        "399948": {
-            "code": "399948",
-            "exchg": "SZSE",
-            "name": "内地地产(退市)",
-            "product": "IDX"
-        },
-        "399949": {
-            "code": "399949",
-            "exchg": "SZSE",
-            "name": "内地农业(退市)",
-            "product": "IDX"
-        },
-        "399950": {
-            "code": "399950",
-            "exchg": "SZSE",
-            "name": "300基建(退市)",
-            "product": "IDX"
-        },
-        "399951": {
-            "code": "399951",
-            "exchg": "SZSE",
-            "name": "300银行(退市)",
-            "product": "IDX"
-        },
-        "399952": {
-            "code": "399952",
-            "exchg": "SZSE",
-            "name": "300地产(退市)",
-            "product": "IDX"
-        },
-        "399953": {
-            "code": "399953",
-            "exchg": "SZSE",
-            "name": "中证地企(退市)",
-            "product": "IDX"
-        },
-        "399954": {
-            "code": "399954",
-            "exchg": "SZSE",
-            "name": "地企100(退市)",
-            "product": "IDX"
-        },
-        "399955": {
-            "code": "399955",
-            "exchg": "SZSE",
-            "name": "中证国企(退市)",
-            "product": "IDX"
-        },
-        "399956": {
-            "code": "399956",
-            "exchg": "SZSE",
-            "name": "国企200(退市)",
-            "product": "IDX"
-        },
-        "399957": {
-            "code": "399957",
-            "exchg": "SZSE",
-            "name": "300运输(退市)",
-            "product": "IDX"
-        },
-        "399958": {
-            "code": "399958",
-            "exchg": "SZSE",
-            "name": "创业成长(退市)",
+            "name": "中证信息技术指数",
             "product": "IDX"
         },
         "399959": {
             "code": "399959",
             "exchg": "SZSE",
-            "name": "军工指数",
-            "product": "IDX"
-        },
-        "399960": {
-            "code": "399960",
-            "exchg": "SZSE",
-            "name": "中证龙头(退市)",
-            "product": "IDX"
-        },
-        "399961": {
-            "code": "399961",
-            "exchg": "SZSE",
-            "name": "中证上游(退市)",
-            "product": "IDX"
-        },
-        "399962": {
-            "code": "399962",
-            "exchg": "SZSE",
-            "name": "中证中游(退市)",
-            "product": "IDX"
-        },
-        "399963": {
-            "code": "399963",
-            "exchg": "SZSE",
-            "name": "中证下游(退市)",
-            "product": "IDX"
-        },
-        "399964": {
-            "code": "399964",
-            "exchg": "SZSE",
-            "name": "中证新兴(退市)",
+            "name": "中证中航军工主题指数",
             "product": "IDX"
         },
         "399965": {
             "code": "399965",
             "exchg": "SZSE",
-            "name": "800地产",
+            "name": "中证800地产指数",
             "product": "IDX"
         },
         "399966": {
             "code": "399966",
             "exchg": "SZSE",
-            "name": "中证800证保",
+            "name": "中证800证券保险指数",
             "product": "IDX"
         },
         "399967": {
             "code": "399967",
             "exchg": "SZSE",
-            "name": "中证军工",
-            "product": "IDX"
-        },
-        "399968": {
-            "code": "399968",
-            "exchg": "SZSE",
-            "name": "300周期(退市)",
-            "product": "IDX"
-        },
-        "399969": {
-            "code": "399969",
-            "exchg": "SZSE",
-            "name": "300非周(退市)",
-            "product": "IDX"
-        },
-        "399970": {
-            "code": "399970",
-            "exchg": "SZSE",
-            "name": "中证移动互联",
-            "product": "IDX"
-        },
-        "399971": {
-            "code": "399971",
-            "exchg": "SZSE",
-            "name": "中证传媒",
+            "name": "中证军工指数",
             "product": "IDX"
         },
         "399972": {
             "code": "399972",
             "exchg": "SZSE",
-            "name": "300深市",
-            "product": "IDX"
-        },
-        "399973": {
-            "code": "399973",
-            "exchg": "SZSE",
-            "name": "中证国防",
+            "name": "沪深300深市指数",
             "product": "IDX"
         },
         "399974": {
             "code": "399974",
             "exchg": "SZSE",
-            "name": "国企改革",
-            "product": "IDX"
-        },
-        "399975": {
-            "code": "399975",
-            "exchg": "SZSE",
-            "name": "证券公司",
-            "product": "IDX"
-        },
-        "399976": {
-            "code": "399976",
-            "exchg": "SZSE",
-            "name": "CS新能车",
-            "product": "IDX"
-        },
-        "399977": {
-            "code": "399977",
-            "exchg": "SZSE",
-            "name": "内地低碳(退市)",
-            "product": "IDX"
-        },
-        "399978": {
-            "code": "399978",
-            "exchg": "SZSE",
-            "name": "医药100(退市)",
-            "product": "IDX"
-        },
-        "399979": {
-            "code": "399979",
-            "exchg": "SZSE",
-            "name": "大宗商品(退市)",
-            "product": "IDX"
-        },
-        "399980": {
-            "code": "399980",
-            "exchg": "SZSE",
-            "name": "中证超大(退市)",
-            "product": "IDX"
-        },
-        "399981": {
-            "code": "399981",
-            "exchg": "SZSE",
-            "name": "300分层(退市)",
+            "name": "中证国有企业改革指数",
             "product": "IDX"
         },
         "399982": {
             "code": "399982",
             "exchg": "SZSE",
-            "name": "500等权",
-            "product": "IDX"
-        },
-        "399983": {
-            "code": "399983",
-            "exchg": "SZSE",
-            "name": "地产等权",
-            "product": "IDX"
-        },
-        "399984": {
-            "code": "399984",
-            "exchg": "SZSE",
-            "name": "300等权(退市)",
-            "product": "IDX"
-        },
-        "399985": {
-            "code": "399985",
-            "exchg": "SZSE",
-            "name": "中证全指(退市)",
-            "product": "IDX"
-        },
-        "399986": {
-            "code": "399986",
-            "exchg": "SZSE",
-            "name": "中证银行",
-            "product": "IDX"
-        },
-        "399987": {
-            "code": "399987",
-            "exchg": "SZSE",
-            "name": "中证酒",
-            "product": "IDX"
-        },
-        "399989": {
-            "code": "399989",
-            "exchg": "SZSE",
-            "name": "中证医疗",
+            "name": "中证500等权重指数",
             "product": "IDX"
         },
         "399990": {
             "code": "399990",
             "exchg": "SZSE",
-            "name": "煤炭等权",
+            "name": "中证煤炭等权指数",
             "product": "IDX"
         },
         "399991": {
             "code": "399991",
             "exchg": "SZSE",
-            "name": "一带一路",
+            "name": "中证一带一路主题指数",
             "product": "IDX"
         },
         "399992": {
             "code": "399992",
             "exchg": "SZSE",
-            "name": "CSWD并购",
+            "name": "中证万得并购重组指数",
             "product": "IDX"
         },
         "399993": {
             "code": "399993",
             "exchg": "SZSE",
-            "name": "CSWD生科",
+            "name": "中证万得生物科技指数",
             "product": "IDX"
         },
         "399994": {
             "code": "399994",
             "exchg": "SZSE",
-            "name": "信息安全",
+            "name": "中证信息安全主题指数",
             "product": "IDX"
         },
         "399995": {
             "code": "399995",
             "exchg": "SZSE",
-            "name": "基建工程",
+            "name": "中证基建工程指数",
             "product": "IDX"
         },
         "399996": {
             "code": "399996",
             "exchg": "SZSE",
-            "name": "中证智能家居",
+            "name": "中证智能家居指数",
             "product": "IDX"
         },
         "399997": {
             "code": "399997",
             "exchg": "SZSE",
-            "name": "中证白酒",
+            "name": "中证白酒指数",
             "product": "IDX"
         },
         "399998": {
             "code": "399998",
             "exchg": "SZSE",
-            "name": "中证煤炭",
+            "name": "中证煤炭指数",
             "product": "IDX"
-        },
-        "430017": {
-            "code": "430017",
-            "exchg": "SZSE",
-            "name": "星昊医药",
-            "product": "STK"
-        },
-        "430047": {
-            "code": "430047",
-            "exchg": "SZSE",
-            "name": "诺思兰德",
-            "product": "STK"
-        },
-        "430090": {
-            "code": "430090",
-            "exchg": "SZSE",
-            "name": "同辉信息",
-            "product": "STK"
-        },
-        "430139": {
-            "code": "430139",
-            "exchg": "SZSE",
-            "name": "华岭股份",
-            "product": "STK"
-        },
-        "430198": {
-            "code": "430198",
-            "exchg": "SZSE",
-            "name": "微创光电",
-            "product": "STK"
-        },
-        "430300": {
-            "code": "430300",
-            "exchg": "SZSE",
-            "name": "辰光医疗",
-            "product": "STK"
-        },
-        "430418": {
-            "code": "430418",
-            "exchg": "SZSE",
-            "name": "苏轴股份",
-            "product": "STK"
-        },
-        "430425": {
-            "code": "430425",
-            "exchg": "SZSE",
-            "name": "乐创技术",
-            "product": "STK"
-        },
-        "430476": {
-            "code": "430476",
-            "exchg": "SZSE",
-            "name": "海能技术",
-            "product": "STK"
-        },
-        "430478": {
-            "code": "430478",
-            "exchg": "SZSE",
-            "name": "峆一药业",
-            "product": "STK"
-        },
-        "430489": {
-            "code": "430489",
-            "exchg": "SZSE",
-            "name": "佳先股份",
-            "product": "STK"
-        },
-        "430510": {
-            "code": "430510",
-            "exchg": "SZSE",
-            "name": "丰光精密",
-            "product": "STK"
-        },
-        "430556": {
-            "code": "430556",
-            "exchg": "SZSE",
-            "name": "雅达股份",
-            "product": "STK"
-        },
-        "430564": {
-            "code": "430564",
-            "exchg": "SZSE",
-            "name": "天润科技",
-            "product": "STK"
-        },
-        "430685": {
-            "code": "430685",
-            "exchg": "SZSE",
-            "name": "新芝生物",
-            "product": "STK"
-        },
-        "430718": {
-            "code": "430718",
-            "exchg": "SZSE",
-            "name": "合肥高科",
-            "product": "STK"
-        },
-        "830779": {
-            "code": "830779",
-            "exchg": "SZSE",
-            "name": "武汉蓝电",
-            "product": "STK"
-        },
-        "830799": {
-            "code": "830799",
-            "exchg": "SZSE",
-            "name": "艾融软件",
-            "product": "STK"
-        },
-        "830809": {
-            "code": "830809",
-            "exchg": "SZSE",
-            "name": "安达科技",
-            "product": "STK"
-        },
-        "830832": {
-            "code": "830832",
-            "exchg": "SZSE",
-            "name": "齐鲁华信",
-            "product": "STK"
-        },
-        "830839": {
-            "code": "830839",
-            "exchg": "SZSE",
-            "name": "万通液压",
-            "product": "STK"
-        },
-        "830879": {
-            "code": "830879",
-            "exchg": "SZSE",
-            "name": "基康仪器",
-            "product": "STK"
-        },
-        "830896": {
-            "code": "830896",
-            "exchg": "SZSE",
-            "name": "旺成科技",
-            "product": "STK"
-        },
-        "830946": {
-            "code": "830946",
-            "exchg": "SZSE",
-            "name": "森萱医药",
-            "product": "STK"
-        },
-        "830964": {
-            "code": "830964",
-            "exchg": "SZSE",
-            "name": "润农节水",
-            "product": "STK"
-        },
-        "830974": {
-            "code": "830974",
-            "exchg": "SZSE",
-            "name": "凯大催化",
-            "product": "STK"
-        },
-        "831010": {
-            "code": "831010",
-            "exchg": "SZSE",
-            "name": "凯添燃气",
-            "product": "STK"
-        },
-        "831039": {
-            "code": "831039",
-            "exchg": "SZSE",
-            "name": "国义招标",
-            "product": "STK"
-        },
-        "831087": {
-            "code": "831087",
-            "exchg": "SZSE",
-            "name": "秋乐种业",
-            "product": "STK"
-        },
-        "831152": {
-            "code": "831152",
-            "exchg": "SZSE",
-            "name": "昆工科技",
-            "product": "STK"
-        },
-        "831167": {
-            "code": "831167",
-            "exchg": "SZSE",
-            "name": "鑫汇科",
-            "product": "STK"
-        },
-        "831175": {
-            "code": "831175",
-            "exchg": "SZSE",
-            "name": "派诺科技",
-            "product": "STK"
-        },
-        "831195": {
-            "code": "831195",
-            "exchg": "SZSE",
-            "name": "三祥科技",
-            "product": "STK"
-        },
-        "831278": {
-            "code": "831278",
-            "exchg": "SZSE",
-            "name": "泰德股份",
-            "product": "STK"
-        },
-        "831304": {
-            "code": "831304",
-            "exchg": "SZSE",
-            "name": "迪尔化工",
-            "product": "STK"
-        },
-        "831305": {
-            "code": "831305",
-            "exchg": "SZSE",
-            "name": "海希通讯",
-            "product": "STK"
-        },
-        "831370": {
-            "code": "831370",
-            "exchg": "SZSE",
-            "name": "新安洁",
-            "product": "STK"
-        },
-        "831396": {
-            "code": "831396",
-            "exchg": "SZSE",
-            "name": "许昌智能",
-            "product": "STK"
-        },
-        "831445": {
-            "code": "831445",
-            "exchg": "SZSE",
-            "name": "龙竹科技",
-            "product": "STK"
-        },
-        "831526": {
-            "code": "831526",
-            "exchg": "SZSE",
-            "name": "凯华材料",
-            "product": "STK"
-        },
-        "831627": {
-            "code": "831627",
-            "exchg": "SZSE",
-            "name": "力王股份",
-            "product": "STK"
-        },
-        "831641": {
-            "code": "831641",
-            "exchg": "SZSE",
-            "name": "格利尔",
-            "product": "STK"
-        },
-        "831689": {
-            "code": "831689",
-            "exchg": "SZSE",
-            "name": "克莱特",
-            "product": "STK"
-        },
-        "831726": {
-            "code": "831726",
-            "exchg": "SZSE",
-            "name": "朱老六",
-            "product": "STK"
-        },
-        "831768": {
-            "code": "831768",
-            "exchg": "SZSE",
-            "name": "拾比佰",
-            "product": "STK"
-        },
-        "831832": {
-            "code": "831832",
-            "exchg": "SZSE",
-            "name": "科达自控",
-            "product": "STK"
-        },
-        "831834": {
-            "code": "831834",
-            "exchg": "SZSE",
-            "name": "三维股份",
-            "product": "STK"
-        },
-        "831855": {
-            "code": "831855",
-            "exchg": "SZSE",
-            "name": "浙江大农",
-            "product": "STK"
-        },
-        "831856": {
-            "code": "831856",
-            "exchg": "SZSE",
-            "name": "浩淼科技",
-            "product": "STK"
-        },
-        "831906": {
-            "code": "831906",
-            "exchg": "SZSE",
-            "name": "舜宇精工",
-            "product": "STK"
-        },
-        "831961": {
-            "code": "831961",
-            "exchg": "SZSE",
-            "name": "创远信科",
-            "product": "STK"
-        },
-        "832000": {
-            "code": "832000",
-            "exchg": "SZSE",
-            "name": "安徽凤凰",
-            "product": "STK"
-        },
-        "832023": {
-            "code": "832023",
-            "exchg": "SZSE",
-            "name": "田野股份",
-            "product": "STK"
-        },
-        "832089": {
-            "code": "832089",
-            "exchg": "SZSE",
-            "name": "禾昌聚合",
-            "product": "STK"
-        },
-        "832110": {
-            "code": "832110",
-            "exchg": "SZSE",
-            "name": "雷特科技",
-            "product": "STK"
-        },
-        "832145": {
-            "code": "832145",
-            "exchg": "SZSE",
-            "name": "恒合股份",
-            "product": "STK"
-        },
-        "832149": {
-            "code": "832149",
-            "exchg": "SZSE",
-            "name": "利尔达",
-            "product": "STK"
-        },
-        "832171": {
-            "code": "832171",
-            "exchg": "SZSE",
-            "name": "志晟信息",
-            "product": "STK"
-        },
-        "832175": {
-            "code": "832175",
-            "exchg": "SZSE",
-            "name": "东方碳素",
-            "product": "STK"
-        },
-        "832225": {
-            "code": "832225",
-            "exchg": "SZSE",
-            "name": "利通科技",
-            "product": "STK"
-        },
-        "832278": {
-            "code": "832278",
-            "exchg": "SZSE",
-            "name": "鹿得医疗",
-            "product": "STK"
-        },
-        "832419": {
-            "code": "832419",
-            "exchg": "SZSE",
-            "name": "路斯股份",
-            "product": "STK"
-        },
-        "832469": {
-            "code": "832469",
-            "exchg": "SZSE",
-            "name": "富恒新材",
-            "product": "STK"
-        },
-        "832471": {
-            "code": "832471",
-            "exchg": "SZSE",
-            "name": "美邦科技",
-            "product": "STK"
-        },
-        "832491": {
-            "code": "832491",
-            "exchg": "SZSE",
-            "name": "奥迪威",
-            "product": "STK"
-        },
-        "832522": {
-            "code": "832522",
-            "exchg": "SZSE",
-            "name": "纳科诺尔",
-            "product": "STK"
-        },
-        "832566": {
-            "code": "832566",
-            "exchg": "SZSE",
-            "name": "梓橦宫",
-            "product": "STK"
-        },
-        "832651": {
-            "code": "832651",
-            "exchg": "SZSE",
-            "name": "天罡股份",
-            "product": "STK"
-        },
-        "832662": {
-            "code": "832662",
-            "exchg": "SZSE",
-            "name": "方盛股份",
-            "product": "STK"
-        },
-        "832735": {
-            "code": "832735",
-            "exchg": "SZSE",
-            "name": "德源药业",
-            "product": "STK"
-        },
-        "832786": {
-            "code": "832786",
-            "exchg": "SZSE",
-            "name": "骑士乳业",
-            "product": "STK"
-        },
-        "832802": {
-            "code": "832802",
-            "exchg": "SZSE",
-            "name": "保丽洁",
-            "product": "STK"
-        },
-        "832876": {
-            "code": "832876",
-            "exchg": "SZSE",
-            "name": "慧为智能",
-            "product": "STK"
-        },
-        "832885": {
-            "code": "832885",
-            "exchg": "SZSE",
-            "name": "星辰科技",
-            "product": "STK"
-        },
-        "832978": {
-            "code": "832978",
-            "exchg": "SZSE",
-            "name": "开特股份",
-            "product": "STK"
-        },
-        "832982": {
-            "code": "832982",
-            "exchg": "SZSE",
-            "name": "锦波生物",
-            "product": "STK"
-        },
-        "833030": {
-            "code": "833030",
-            "exchg": "SZSE",
-            "name": "立方控股",
-            "product": "STK"
-        },
-        "833075": {
-            "code": "833075",
-            "exchg": "SZSE",
-            "name": "柏星龙",
-            "product": "STK"
-        },
-        "833171": {
-            "code": "833171",
-            "exchg": "SZSE",
-            "name": "国航远洋",
-            "product": "STK"
-        },
-        "833230": {
-            "code": "833230",
-            "exchg": "SZSE",
-            "name": "欧康医药",
-            "product": "STK"
-        },
-        "833266": {
-            "code": "833266",
-            "exchg": "SZSE",
-            "name": "生物谷",
-            "product": "STK"
-        },
-        "833284": {
-            "code": "833284",
-            "exchg": "SZSE",
-            "name": "灵鸽科技",
-            "product": "STK"
-        },
-        "833346": {
-            "code": "833346",
-            "exchg": "SZSE",
-            "name": "威贸电子",
-            "product": "STK"
-        },
-        "833394": {
-            "code": "833394",
-            "exchg": "SZSE",
-            "name": "民士达",
-            "product": "STK"
-        },
-        "833427": {
-            "code": "833427",
-            "exchg": "SZSE",
-            "name": "华维设计",
-            "product": "STK"
-        },
-        "833429": {
-            "code": "833429",
-            "exchg": "SZSE",
-            "name": "康比特",
-            "product": "STK"
-        },
-        "833454": {
-            "code": "833454",
-            "exchg": "SZSE",
-            "name": "同心传动",
-            "product": "STK"
-        },
-        "833455": {
-            "code": "833455",
-            "exchg": "SZSE",
-            "name": "汇隆活塞",
-            "product": "STK"
-        },
-        "833509": {
-            "code": "833509",
-            "exchg": "SZSE",
-            "name": "同惠电子",
-            "product": "STK"
-        },
-        "833523": {
-            "code": "833523",
-            "exchg": "SZSE",
-            "name": "德瑞锂电",
-            "product": "STK"
-        },
-        "833533": {
-            "code": "833533",
-            "exchg": "SZSE",
-            "name": "骏创科技",
-            "product": "STK"
-        },
-        "833575": {
-            "code": "833575",
-            "exchg": "SZSE",
-            "name": "康乐卫士",
-            "product": "STK"
-        },
-        "833580": {
-            "code": "833580",
-            "exchg": "SZSE",
-            "name": "科创新材",
-            "product": "STK"
-        },
-        "833751": {
-            "code": "833751",
-            "exchg": "SZSE",
-            "name": "惠同新材",
-            "product": "STK"
-        },
-        "833781": {
-            "code": "833781",
-            "exchg": "SZSE",
-            "name": "瑞奇智造",
-            "product": "STK"
-        },
-        "833819": {
-            "code": "833819",
-            "exchg": "SZSE",
-            "name": "颖泰生物",
-            "product": "STK"
-        },
-        "833873": {
-            "code": "833873",
-            "exchg": "SZSE",
-            "name": "中设咨询",
-            "product": "STK"
-        },
-        "833914": {
-            "code": "833914",
-            "exchg": "SZSE",
-            "name": "远航精密",
-            "product": "STK"
-        },
-        "833943": {
-            "code": "833943",
-            "exchg": "SZSE",
-            "name": "优机股份",
-            "product": "STK"
-        },
-        "834014": {
-            "code": "834014",
-            "exchg": "SZSE",
-            "name": "特瑞斯",
-            "product": "STK"
-        },
-        "834021": {
-            "code": "834021",
-            "exchg": "SZSE",
-            "name": "流金科技",
-            "product": "STK"
-        },
-        "834033": {
-            "code": "834033",
-            "exchg": "SZSE",
-            "name": "康普化学",
-            "product": "STK"
-        },
-        "834058": {
-            "code": "834058",
-            "exchg": "SZSE",
-            "name": "华洋赛车",
-            "product": "STK"
-        },
-        "834062": {
-            "code": "834062",
-            "exchg": "SZSE",
-            "name": "科润智控",
-            "product": "STK"
-        },
-        "834261": {
-            "code": "834261",
-            "exchg": "SZSE",
-            "name": "一诺威",
-            "product": "STK"
-        },
-        "834407": {
-            "code": "834407",
-            "exchg": "SZSE",
-            "name": "驰诚股份",
-            "product": "STK"
-        },
-        "834415": {
-            "code": "834415",
-            "exchg": "SZSE",
-            "name": "恒拓开源",
-            "product": "STK"
-        },
-        "834475": {
-            "code": "834475",
-            "exchg": "SZSE",
-            "name": "三友科技",
-            "product": "STK"
-        },
-        "834599": {
-            "code": "834599",
-            "exchg": "SZSE",
-            "name": "同力股份",
-            "product": "STK"
-        },
-        "834639": {
-            "code": "834639",
-            "exchg": "SZSE",
-            "name": "晨光电缆",
-            "product": "STK"
-        },
-        "834682": {
-            "code": "834682",
-            "exchg": "SZSE",
-            "name": "球冠电缆",
-            "product": "STK"
-        },
-        "834765": {
-            "code": "834765",
-            "exchg": "SZSE",
-            "name": "美之高",
-            "product": "STK"
-        },
-        "834770": {
-            "code": "834770",
-            "exchg": "SZSE",
-            "name": "艾能聚",
-            "product": "STK"
-        },
-        "834950": {
-            "code": "834950",
-            "exchg": "SZSE",
-            "name": "迅安科技",
-            "product": "STK"
-        },
-        "835174": {
-            "code": "835174",
-            "exchg": "SZSE",
-            "name": "五新隧装",
-            "product": "STK"
-        },
-        "835179": {
-            "code": "835179",
-            "exchg": "SZSE",
-            "name": "凯德石英",
-            "product": "STK"
-        },
-        "835184": {
-            "code": "835184",
-            "exchg": "SZSE",
-            "name": "国源科技",
-            "product": "STK"
-        },
-        "835185": {
-            "code": "835185",
-            "exchg": "SZSE",
-            "name": "贝特瑞",
-            "product": "STK"
-        },
-        "835207": {
-            "code": "835207",
-            "exchg": "SZSE",
-            "name": "众诚科技",
-            "product": "STK"
-        },
-        "835237": {
-            "code": "835237",
-            "exchg": "SZSE",
-            "name": "力佳科技",
-            "product": "STK"
-        },
-        "835305": {
-            "code": "835305",
-            "exchg": "SZSE",
-            "name": "云创数据",
-            "product": "STK"
-        },
-        "835368": {
-            "code": "835368",
-            "exchg": "SZSE",
-            "name": "连城数控",
-            "product": "STK"
-        },
-        "835508": {
-            "code": "835508",
-            "exchg": "SZSE",
-            "name": "殷图网联",
-            "product": "STK"
-        },
-        "835579": {
-            "code": "835579",
-            "exchg": "SZSE",
-            "name": "机科股份",
-            "product": "STK"
-        },
-        "835640": {
-            "code": "835640",
-            "exchg": "SZSE",
-            "name": "富士达",
-            "product": "STK"
-        },
-        "835670": {
-            "code": "835670",
-            "exchg": "SZSE",
-            "name": "数字人",
-            "product": "STK"
-        },
-        "835857": {
-            "code": "835857",
-            "exchg": "SZSE",
-            "name": "百甲科技",
-            "product": "STK"
-        },
-        "835892": {
-            "code": "835892",
-            "exchg": "SZSE",
-            "name": "中科美菱",
-            "product": "STK"
-        },
-        "835985": {
-            "code": "835985",
-            "exchg": "SZSE",
-            "name": "海泰新能",
-            "product": "STK"
-        },
-        "836077": {
-            "code": "836077",
-            "exchg": "SZSE",
-            "name": "吉林碳谷",
-            "product": "STK"
-        },
-        "836149": {
-            "code": "836149",
-            "exchg": "SZSE",
-            "name": "旭杰科技",
-            "product": "STK"
-        },
-        "836208": {
-            "code": "836208",
-            "exchg": "SZSE",
-            "name": "青矩技术",
-            "product": "STK"
-        },
-        "836221": {
-            "code": "836221",
-            "exchg": "SZSE",
-            "name": "易实精密",
-            "product": "STK"
-        },
-        "836239": {
-            "code": "836239",
-            "exchg": "SZSE",
-            "name": "长虹能源",
-            "product": "STK"
-        },
-        "836247": {
-            "code": "836247",
-            "exchg": "SZSE",
-            "name": "华密新材",
-            "product": "STK"
-        },
-        "836260": {
-            "code": "836260",
-            "exchg": "SZSE",
-            "name": "中寰股份",
-            "product": "STK"
-        },
-        "836263": {
-            "code": "836263",
-            "exchg": "SZSE",
-            "name": "中航泰达",
-            "product": "STK"
-        },
-        "836270": {
-            "code": "836270",
-            "exchg": "SZSE",
-            "name": "天铭科技",
-            "product": "STK"
-        },
-        "836395": {
-            "code": "836395",
-            "exchg": "SZSE",
-            "name": "朗鸿科技",
-            "product": "STK"
-        },
-        "836414": {
-            "code": "836414",
-            "exchg": "SZSE",
-            "name": "欧普泰",
-            "product": "STK"
-        },
-        "836419": {
-            "code": "836419",
-            "exchg": "SZSE",
-            "name": "万德股份",
-            "product": "STK"
-        },
-        "836422": {
-            "code": "836422",
-            "exchg": "SZSE",
-            "name": "润普食品",
-            "product": "STK"
-        },
-        "836433": {
-            "code": "836433",
-            "exchg": "SZSE",
-            "name": "大唐药业",
-            "product": "STK"
-        },
-        "836504": {
-            "code": "836504",
-            "exchg": "SZSE",
-            "name": "博迅生物",
-            "product": "STK"
-        },
-        "836547": {
-            "code": "836547",
-            "exchg": "SZSE",
-            "name": "无锡晶海",
-            "product": "STK"
-        },
-        "836675": {
-            "code": "836675",
-            "exchg": "SZSE",
-            "name": "秉扬科技",
-            "product": "STK"
-        },
-        "836699": {
-            "code": "836699",
-            "exchg": "SZSE",
-            "name": "海达尔",
-            "product": "STK"
-        },
-        "836717": {
-            "code": "836717",
-            "exchg": "SZSE",
-            "name": "瑞星股份",
-            "product": "STK"
-        },
-        "836720": {
-            "code": "836720",
-            "exchg": "SZSE",
-            "name": "吉冈精密",
-            "product": "STK"
-        },
-        "836807": {
-            "code": "836807",
-            "exchg": "SZSE",
-            "name": "奔朗新材",
-            "product": "STK"
-        },
-        "836826": {
-            "code": "836826",
-            "exchg": "SZSE",
-            "name": "盖世食品",
-            "product": "STK"
-        },
-        "836871": {
-            "code": "836871",
-            "exchg": "SZSE",
-            "name": "派特尔",
-            "product": "STK"
-        },
-        "836892": {
-            "code": "836892",
-            "exchg": "SZSE",
-            "name": "广咨国际",
-            "product": "STK"
-        },
-        "836942": {
-            "code": "836942",
-            "exchg": "SZSE",
-            "name": "恒立钻具",
-            "product": "STK"
-        },
-        "836957": {
-            "code": "836957",
-            "exchg": "SZSE",
-            "name": "汉维科技",
-            "product": "STK"
-        },
-        "836961": {
-            "code": "836961",
-            "exchg": "SZSE",
-            "name": "西磁科技",
-            "product": "STK"
-        },
-        "837006": {
-            "code": "837006",
-            "exchg": "SZSE",
-            "name": "晟楠科技",
-            "product": "STK"
-        },
-        "837046": {
-            "code": "837046",
-            "exchg": "SZSE",
-            "name": "亿能电力",
-            "product": "STK"
-        },
-        "837092": {
-            "code": "837092",
-            "exchg": "SZSE",
-            "name": "汉鑫科技",
-            "product": "STK"
-        },
-        "837174": {
-            "code": "837174",
-            "exchg": "SZSE",
-            "name": "宏裕包材",
-            "product": "STK"
-        },
-        "837212": {
-            "code": "837212",
-            "exchg": "SZSE",
-            "name": "智新电子",
-            "product": "STK"
-        },
-        "837242": {
-            "code": "837242",
-            "exchg": "SZSE",
-            "name": "建邦科技",
-            "product": "STK"
-        },
-        "837344": {
-            "code": "837344",
-            "exchg": "SZSE",
-            "name": "三元基因",
-            "product": "STK"
-        },
-        "837403": {
-            "code": "837403",
-            "exchg": "SZSE",
-            "name": "康农种业",
-            "product": "STK"
-        },
-        "837592": {
-            "code": "837592",
-            "exchg": "SZSE",
-            "name": "华信永道",
-            "product": "STK"
-        },
-        "837663": {
-            "code": "837663",
-            "exchg": "SZSE",
-            "name": "明阳科技",
-            "product": "STK"
-        },
-        "837748": {
-            "code": "837748",
-            "exchg": "SZSE",
-            "name": "路桥信息",
-            "product": "STK"
-        },
-        "837821": {
-            "code": "837821",
-            "exchg": "SZSE",
-            "name": "则成电子",
-            "product": "STK"
-        },
-        "838030": {
-            "code": "838030",
-            "exchg": "SZSE",
-            "name": "德众汽车",
-            "product": "STK"
-        },
-        "838163": {
-            "code": "838163",
-            "exchg": "SZSE",
-            "name": "方大新材",
-            "product": "STK"
-        },
-        "838171": {
-            "code": "838171",
-            "exchg": "SZSE",
-            "name": "邦德股份",
-            "product": "STK"
-        },
-        "838227": {
-            "code": "838227",
-            "exchg": "SZSE",
-            "name": "美登科技",
-            "product": "STK"
-        },
-        "838262": {
-            "code": "838262",
-            "exchg": "SZSE",
-            "name": "太湖雪",
-            "product": "STK"
-        },
-        "838275": {
-            "code": "838275",
-            "exchg": "SZSE",
-            "name": "驱动力",
-            "product": "STK"
-        },
-        "838402": {
-            "code": "838402",
-            "exchg": "SZSE",
-            "name": "硅烷科技",
-            "product": "STK"
-        },
-        "838670": {
-            "code": "838670",
-            "exchg": "SZSE",
-            "name": "恒进感应",
-            "product": "STK"
-        },
-        "838701": {
-            "code": "838701",
-            "exchg": "SZSE",
-            "name": "豪声电子",
-            "product": "STK"
-        },
-        "838810": {
-            "code": "838810",
-            "exchg": "SZSE",
-            "name": "春光药装",
-            "product": "STK"
-        },
-        "838837": {
-            "code": "838837",
-            "exchg": "SZSE",
-            "name": "华原股份",
-            "product": "STK"
-        },
-        "838924": {
-            "code": "838924",
-            "exchg": "SZSE",
-            "name": "广脉科技",
-            "product": "STK"
-        },
-        "838971": {
-            "code": "838971",
-            "exchg": "SZSE",
-            "name": "天马新材",
-            "product": "STK"
-        },
-        "839167": {
-            "code": "839167",
-            "exchg": "SZSE",
-            "name": "同享科技",
-            "product": "STK"
-        },
-        "839273": {
-            "code": "839273",
-            "exchg": "SZSE",
-            "name": "一致魔芋",
-            "product": "STK"
-        },
-        "839371": {
-            "code": "839371",
-            "exchg": "SZSE",
-            "name": "欧福蛋业",
-            "product": "STK"
-        },
-        "839493": {
-            "code": "839493",
-            "exchg": "SZSE",
-            "name": "并行科技",
-            "product": "STK"
-        },
-        "839680": {
-            "code": "839680",
-            "exchg": "SZSE",
-            "name": "广道数字",
-            "product": "STK"
-        },
-        "839719": {
-            "code": "839719",
-            "exchg": "SZSE",
-            "name": "宁新新材",
-            "product": "STK"
-        },
-        "839725": {
-            "code": "839725",
-            "exchg": "SZSE",
-            "name": "惠丰钻石",
-            "product": "STK"
-        },
-        "839729": {
-            "code": "839729",
-            "exchg": "SZSE",
-            "name": "永顺生物",
-            "product": "STK"
-        },
-        "839790": {
-            "code": "839790",
-            "exchg": "SZSE",
-            "name": "联迪信息",
-            "product": "STK"
-        },
-        "839792": {
-            "code": "839792",
-            "exchg": "SZSE",
-            "name": "东和新材",
-            "product": "STK"
-        },
-        "839946": {
-            "code": "839946",
-            "exchg": "SZSE",
-            "name": "华阳变速",
-            "product": "STK"
-        },
-        "870199": {
-            "code": "870199",
-            "exchg": "SZSE",
-            "name": "倍益康",
-            "product": "STK"
-        },
-        "870204": {
-            "code": "870204",
-            "exchg": "SZSE",
-            "name": "沪江材料",
-            "product": "STK"
-        },
-        "870299": {
-            "code": "870299",
-            "exchg": "SZSE",
-            "name": "灿能电力",
-            "product": "STK"
-        },
-        "870357": {
-            "code": "870357",
-            "exchg": "SZSE",
-            "name": "雅葆轩",
-            "product": "STK"
-        },
-        "870436": {
-            "code": "870436",
-            "exchg": "SZSE",
-            "name": "大地电气",
-            "product": "STK"
-        },
-        "870508": {
-            "code": "870508",
-            "exchg": "SZSE",
-            "name": "丰安股份",
-            "product": "STK"
-        },
-        "870656": {
-            "code": "870656",
-            "exchg": "SZSE",
-            "name": "海昇药业",
-            "product": "STK"
-        },
-        "870726": {
-            "code": "870726",
-            "exchg": "SZSE",
-            "name": "鸿智科技",
-            "product": "STK"
-        },
-        "870866": {
-            "code": "870866",
-            "exchg": "SZSE",
-            "name": "绿亨科技",
-            "product": "STK"
-        },
-        "870976": {
-            "code": "870976",
-            "exchg": "SZSE",
-            "name": "视声智能",
-            "product": "STK"
-        },
-        "871245": {
-            "code": "871245",
-            "exchg": "SZSE",
-            "name": "威博液压",
-            "product": "STK"
-        },
-        "871263": {
-            "code": "871263",
-            "exchg": "SZSE",
-            "name": "莱赛激光",
-            "product": "STK"
-        },
-        "871396": {
-            "code": "871396",
-            "exchg": "SZSE",
-            "name": "常辅股份",
-            "product": "STK"
-        },
-        "871478": {
-            "code": "871478",
-            "exchg": "SZSE",
-            "name": "巨能股份",
-            "product": "STK"
-        },
-        "871553": {
-            "code": "871553",
-            "exchg": "SZSE",
-            "name": "凯腾精工",
-            "product": "STK"
-        },
-        "871634": {
-            "code": "871634",
-            "exchg": "SZSE",
-            "name": "新威凌",
-            "product": "STK"
-        },
-        "871642": {
-            "code": "871642",
-            "exchg": "SZSE",
-            "name": "通易航天",
-            "product": "STK"
-        },
-        "871694": {
-            "code": "871694",
-            "exchg": "SZSE",
-            "name": "中裕科技",
-            "product": "STK"
-        },
-        "871753": {
-            "code": "871753",
-            "exchg": "SZSE",
-            "name": "天纺标",
-            "product": "STK"
-        },
-        "871857": {
-            "code": "871857",
-            "exchg": "SZSE",
-            "name": "泓禧科技",
-            "product": "STK"
-        },
-        "871970": {
-            "code": "871970",
-            "exchg": "SZSE",
-            "name": "大禹生物",
-            "product": "STK"
-        },
-        "871981": {
-            "code": "871981",
-            "exchg": "SZSE",
-            "name": "晶赛科技",
-            "product": "STK"
-        },
-        "872190": {
-            "code": "872190",
-            "exchg": "SZSE",
-            "name": "雷神科技",
-            "product": "STK"
-        },
-        "872351": {
-            "code": "872351",
-            "exchg": "SZSE",
-            "name": "华光源海",
-            "product": "STK"
-        },
-        "872374": {
-            "code": "872374",
-            "exchg": "SZSE",
-            "name": "云里物里",
-            "product": "STK"
-        },
-        "872392": {
-            "code": "872392",
-            "exchg": "SZSE",
-            "name": "佳合科技",
-            "product": "STK"
-        },
-        "872541": {
-            "code": "872541",
-            "exchg": "SZSE",
-            "name": "铁大科技",
-            "product": "STK"
-        },
-        "872808": {
-            "code": "872808",
-            "exchg": "SZSE",
-            "name": "曙光数创",
-            "product": "STK"
-        },
-        "872895": {
-            "code": "872895",
-            "exchg": "SZSE",
-            "name": "花溪科技",
-            "product": "STK"
-        },
-        "872925": {
-            "code": "872925",
-            "exchg": "SZSE",
-            "name": "锦好医疗",
-            "product": "STK"
-        },
-        "872953": {
-            "code": "872953",
-            "exchg": "SZSE",
-            "name": "国子软件",
-            "product": "STK"
-        },
-        "873001": {
-            "code": "873001",
-            "exchg": "SZSE",
-            "name": "纬达光电",
-            "product": "STK"
-        },
-        "873122": {
-            "code": "873122",
-            "exchg": "SZSE",
-            "name": "中纺标",
-            "product": "STK"
-        },
-        "873132": {
-            "code": "873132",
-            "exchg": "SZSE",
-            "name": "泰鹏智能",
-            "product": "STK"
-        },
-        "873152": {
-            "code": "873152",
-            "exchg": "SZSE",
-            "name": "天宏锂电",
-            "product": "STK"
-        },
-        "873167": {
-            "code": "873167",
-            "exchg": "SZSE",
-            "name": "新赣江",
-            "product": "STK"
-        },
-        "873169": {
-            "code": "873169",
-            "exchg": "SZSE",
-            "name": "七丰精工",
-            "product": "STK"
-        },
-        "873223": {
-            "code": "873223",
-            "exchg": "SZSE",
-            "name": "荣亿精密",
-            "product": "STK"
-        },
-        "873305": {
-            "code": "873305",
-            "exchg": "SZSE",
-            "name": "九菱科技",
-            "product": "STK"
-        },
-        "873339": {
-            "code": "873339",
-            "exchg": "SZSE",
-            "name": "恒太照明",
-            "product": "STK"
-        },
-        "873527": {
-            "code": "873527",
-            "exchg": "SZSE",
-            "name": "夜光明",
-            "product": "STK"
-        },
-        "873570": {
-            "code": "873570",
-            "exchg": "SZSE",
-            "name": "坤博精工",
-            "product": "STK"
-        },
-        "873576": {
-            "code": "873576",
-            "exchg": "SZSE",
-            "name": "天力复合",
-            "product": "STK"
-        },
-        "873593": {
-            "code": "873593",
-            "exchg": "SZSE",
-            "name": "鼎智科技",
-            "product": "STK"
-        },
-        "873665": {
-            "code": "873665",
-            "exchg": "SZSE",
-            "name": "科强股份",
-            "product": "STK"
-        },
-        "873679": {
-            "code": "873679",
-            "exchg": "SZSE",
-            "name": "前进科技",
-            "product": "STK"
-        },
-        "873690": {
-            "code": "873690",
-            "exchg": "SZSE",
-            "name": "捷众科技",
-            "product": "STK"
-        },
-        "873693": {
-            "code": "873693",
-            "exchg": "SZSE",
-            "name": "阿为特",
-            "product": "STK"
-        },
-        "873703": {
-            "code": "873703",
-            "exchg": "SZSE",
-            "name": "广厦环能",
-            "product": "STK"
-        },
-        "873726": {
-            "code": "873726",
-            "exchg": "SZSE",
-            "name": "卓兆点胶",
-            "product": "STK"
-        },
-        "873806": {
-            "code": "873806",
-            "exchg": "SZSE",
-            "name": "云星宇",
-            "product": "STK"
-        },
-        "873833": {
-            "code": "873833",
-            "exchg": "SZSE",
-            "name": "美心翼申",
-            "product": "STK"
         }
     }
 }

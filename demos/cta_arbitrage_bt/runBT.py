@@ -9,8 +9,6 @@ if __name__ == "__main__":
     #创建一个运行环境，并加入策略
     engine = WtBtEngine(EngineType.ET_CTA)
     engine.init('../common/', "configbt.yaml")
-    engine.configBacktest(201907310900,202008131500)
-    engine.configBTStorage(mode="csv", path="../storage/")
     engine.commitBTConfig()
 
     straInfo = StraT1(name='t1_rb_i', code1="SHFE.rb.HOT", code2="DCE.i.HOT", bar_cnt=400, period="m5", N=360, threshold=0.9)

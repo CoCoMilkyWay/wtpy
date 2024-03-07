@@ -19,8 +19,8 @@ import sys
 sys.path.append('../Strategies')
 from DualThrust import StraDualThrust
 
-name = "pydt_SH510300"
-code = "SSE.ETF.510300"
+name = "pydt_SH688001"
+code = "SSE.STK.688001"
 
 if __name__ == "__main__":
     #创建一个运行环境，并加入策略
@@ -37,7 +37,7 @@ if __name__ == "__main__":
 
     #绩效分析
     analyst = WtBtAnalyst()
-    analyst.add_strategy(name, folder="./outputs_bt/", init_capital=5000, rf=0.0, annual_trading_days=240)
+    analyst.add_strategy(name, folder="./outputs_bt/", init_capital=500000, rf=0.0, annual_trading_days=240)
     analyst.run_flat()
 
     testBtSnooper()

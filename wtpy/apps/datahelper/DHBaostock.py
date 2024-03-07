@@ -12,9 +12,9 @@ def transCodes(codes:list) -> list:
         items = code.split(".")
         exchg = items[0]
         if exchg == "SSE":
-            ret.append("sh."+items[1])
+            ret.append("sh."+items[-1])
         else:
-            ret.append("sz."+items[1])
+            ret.append("sz."+items[-1])
 
     return ret
 
@@ -39,8 +39,10 @@ class DHBaostock(BaseDataHelper):
         if self.isAuthed:
             return
 
-        bs.login()
+        lg = bs.login()
         self.isAuthed = True
+        print('login respond error_code:'+lg.error_code)
+        print('login respond  error_msg:'+lg.error_msg)
         logging.info("Baostock has been authorized.")
 
     def dmpCodeListToFile(self, filename:str, hasIndex:bool=True, hasStock:bool=True):
@@ -48,7 +50,6 @@ class DHBaostock(BaseDataHelper):
             "SSE":{},
             "SZSE":{}
         }
-
 
         logging.info("Confirming latest tradingday...")
         rs = bs.query_trade_dates()
@@ -61,8 +62,6 @@ class DHBaostock(BaseDataHelper):
         
         logging.info(f"Feting all stocks of  latest tradingday: {prevDate}...")
         rs = bs.query_all_stock(day=prevDate)
-
-        print(rs.fields)
         while (rs.error_code == '0') & rs.next():
             row = rs.get_row_data()
             code = row[0]
@@ -100,7 +99,7 @@ class DHBaostock(BaseDataHelper):
                     sInfo["product"] = 'ETFO'
                 else:
                     sInfo["product"] = 'STK'
-            
+            print(sInfo)
             stocks[sInfo["exchg"]][code] = sInfo
 
         logging.info("Writing code list into file %s..." % (filename))
@@ -351,12 +350,13 @@ class DHBaostock(BaseDataHelper):
             count += 1
             
             logging.info("Fetching %s bars of %s(%d/%s)..." % (period, code, count, length))
+            print(code,fields,start_date,end_date,freq)
             rs = bs.query_history_k_data_plus(code=code, fields=fields, start_date=start_date, end_date=end_date, frequency=freq)
             bastList = []
             if rs.error_code != '0':
                 logging.error("Error occured: %s" % (rs.error_msg))
                 continue
-
+            
             while rs.next():
                 items = rs.get_row_data().copy()
                 curBar = WTSBarStruct()

@@ -6,7 +6,7 @@ replayer:
         contract: ../common/stocks.json
         holiday: ../common/holidays.json
         session: ../common/stk_sessions.json
-    etime: 201901011500
+    etime: 202401011500
     fees: ../common/fees_stk.json
     mode: csv
     path: ../storage/

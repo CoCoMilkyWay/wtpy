@@ -3,7 +3,6 @@ from wtpy.apps import WtBtAnalyst
 
 from wtpy.monitor import WtBtSnooper
 from wtpy import WtDtServo
-
 def testBtSnooper():    
 
     dtServo = WtDtServo()
@@ -20,26 +19,26 @@ import sys
 sys.path.append('../Strategies')
 from DualThrust import StraDualThrust
 
-name = "pydt_SH510300"
-code = "SSE.ETF.510300"
+name = "dt_cta"
+codes = 'SSE.STK.688001'
+period = "m5"
 
 if __name__ == "__main__":
     #创建一个运行环境，并加入策略
     engine = WtBtEngine(EngineType.ET_CTA)
-    engine.init(folder='../common/', cfgfile="configbt.yaml", commfile="stk_comms.json", contractfile="stocks.json")
+    engine.init(folder='../common/', cfgfile="configbt.yaml")
     #engine.configBacktest(201901010930,201912151500)
-    engine.configBTStorage(mode="csv", path="../storage/")
+    #engine.configBTStorage(mode="csv", path="../storage/")
     engine.commitBTConfig()
     
-    straInfo = StraDualThrust(name=name, code=code, barCnt=50, period="m5", days=5000, k1=0.1, k2=0.1)
+    straInfo = StraDualThrust(name=name, code=codes, barCnt=50, period=period, days=5000, k1=0.1, k2=0.1)
     engine.set_cta_strategy(straInfo)
-
-    engine.run_backtest()
+    engine.run_backtest(bAsync=False)
 
     #绩效分析
     analyst = WtBtAnalyst()
-    analyst.add_strategy(name, folder="./outputs_bt/", init_capital=5000, rf=0.0, annual_trading_days=240)
-    analyst.run_flat()
+    analyst.add_strategy(name, folder="./outputs_bt/", init_capital=500000, rf=0.0, annual_trading_days=240)
+    analyst.run_new()
 
     testBtSnooper()
     # 运行了服务以后，在浏览器打开以下网址即可使用
