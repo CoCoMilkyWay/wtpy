@@ -7,6 +7,20 @@ from wtpy.CtaContext import CtaContext
 from wtpy.StrategyDefs import BaseCtaStrategy
 from wtpy.WtBtEngine import WtBtEngine, EngineType
 
+from wtpy.monitor import WtBtSnooper
+from wtpy import WtDtServo
+def testBtSnooper():    
+
+    dtServo = WtDtServo()
+    # 这里配置的是基础数据文件目录
+    dtServo.setBasefiles(folder='../common/')
+
+    # 这里配置的是datakit落地的数据目录
+    dtServo.setStorage(path='../storage/')
+
+    snooper = WtBtSnooper(dtServo)
+    snooper.run_as_server(port=8081, host='localhost')
+
 class EnvStrategy(BaseCtaStrategy):
     def __init__(self, name:str, code:str, period:str, count:int):
         super().__init__(name=name)

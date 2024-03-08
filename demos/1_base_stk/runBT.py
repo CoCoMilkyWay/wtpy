@@ -32,15 +32,15 @@ if __name__ == "__main__":
     engine.commitBTConfig()
     
     straInfo = StraDualThrust(name=name, code=codes, barCnt=50, period=period, days=5000, k1=0.1, k2=0.1)
-    engine.set_cta_strategy(straInfo)
+    engine.set_cta_strategy(straInfo, slippage=0, isRatioSlp=False, incremental=False)
     engine.run_backtest(bAsync=False)
 
     #绩效分析
     analyst = WtBtAnalyst()
-    analyst.add_strategy(name, folder="./outputs_bt/", init_capital=500000, rf=0.0, annual_trading_days=240)
-    analyst.run_new()
+    analyst.add_strategy(name, folder="./outputs_bt/", init_capital=500000, rf=0.03, annual_trading_days=240)
+    analyst.run_flat()
 
-    testBtSnooper()
+    # testBtSnooper()
     # 运行了服务以后，在浏览器打开以下网址即可使用
     # http://127.0.0.1:8081/backtest/backtest.html
 

@@ -756,6 +756,8 @@ class WtBtSnooper:
         return items
 
     def get_bt_kline(self, path:str, straid:str) -> list:
+        print('GET K LINE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+        print(path,straid)
         if self.dt_servo is None:
             return None
 
