@@ -1,6 +1,20 @@
 from wtpy import WtBtEngine,EngineType
 from wtpy.apps import WtBtAnalyst
 
+from wtpy.monitor import WtBtSnooper
+from wtpy import WtDtServo
+def testBtSnooper():    
+
+    dtServo = WtDtServo()
+    # 这里配置的是基础数据文件目录
+    dtServo.setBasefiles(folder='../common/')
+
+    # 这里配置的是datakit落地的数据目录
+    dtServo.setStorage(path='../storage/')
+
+    snooper = WtBtSnooper(dtServo)
+    snooper.run_as_server(port=8081, host='localhost')
+
 import sys
 sys.path.append('../Strategies')
 from DualThrust import StraDualThrust
@@ -77,6 +91,8 @@ if __name__ == "__main__":
     else:
         #使用pyfolio进行绩效分析
         analyze_with_pyfolio("./outputs_bt/pydt_IF/funds.csv")
+
+    testBtSnooper()
 
     kw = input('press any key to exit\n')
     engine.release_backtest()
