@@ -1,0 +1,38 @@
+[19:12:29.337.846][34157][INFO][XTP:0][init_log_file]:End: XTPMDFlow//你的XTP仿真账号/log/quote.log, api version : 2.2.32
+[19:12:29.337.900][34157][DEBUG][XTP:0]Begin to register quote service function.
+[19:12:29.337.909][34157][DEBUG][XTP:0]register service function ok(2250).
+[19:12:29.337.917][34157][DEBUG][XTP:0]register service function ok(2001).
+[19:12:29.337.925][34157][DEBUG][XTP:0]register service function ok(2002).
+[19:12:29.337.932][34157][DEBUG][XTP:0]register service function ok(2003).
+[19:12:29.337.939][34157][DEBUG][XTP:0]register service function ok(2200).
+[19:12:29.337.947][34157][DEBUG][XTP:0]register service function ok(2201).
+[19:12:29.337.954][34157][DEBUG][XTP:0]register service function ok(2202).
+[19:12:29.337.962][34157][DEBUG][XTP:0]register service function ok(2210).
+[19:12:29.337.969][34157][DEBUG][XTP:0]register service function ok(2211).
+[19:12:29.337.976][34157][DEBUG][XTP:0]register service function ok(2212).
+[19:12:29.337.983][34157][DEBUG][XTP:0]register service function ok(2011).
+[19:12:29.337.990][34157][DEBUG][XTP:0]register service function ok(51).
+[19:12:29.337.998][34157][DEBUG][XTP:0]register service function ok(53).
+[19:12:29.338.005][34157][DEBUG][XTP:0]register service function ok(9).
+[19:12:29.338.012][34157][DEBUG][XTP:0]register service function ok(2005).
+[19:12:29.338.019][34157][DEBUG][XTP:0]register service function ok(2006).
+[19:12:29.338.026][34157][DEBUG][XTP:0]register service function ok(2205).
+[19:12:29.338.033][34157][DEBUG][XTP:0]register service function ok(2206).
+[19:12:29.338.040][34157][DEBUG][XTP:0]register service function ok(2215).
+[19:12:29.338.047][34157][DEBUG][XTP:0]register service function ok(2216).
+[19:12:29.338.055][34157][DEBUG][XTP:0]register service function ok(2012).
+[19:12:29.338.062][34157][DEBUG][XTP:0]register service function ok(2018).
+[19:12:29.338.069][34157][DEBUG][XTP:0]register service function ok(2220).
+[19:12:29.338.076][34157][DEBUG][XTP:0]register service function ok(2222).
+[19:12:29.338.083][34157][DEBUG][XTP:0]register service function ok(2224).
+[19:12:29.338.090][34157][DEBUG][XTP:0]register service function ok(2251).
+[19:12:29.338.097][34157][DEBUG][XTP:0]End to register quote service function 1.
+[19:12:29.479.844][34157][INFO][XTP:0]Begin to login to quote server 119.3.103.38:6002.
+[19:12:29.797.296][34157][DEBUG][XTP:0]Receive login info from quote server.
+[19:12:29.797.340][34157][INFO][XTP:0]Receive trading day 20240723 from quote server success.
+[19:12:29.797.398][34157][INFO][XTP:0]Receive md udp group 230.1.7.45 : 7771 from quote server success.
+[19:12:29.797.405][34157][INFO][XTP:0]Receive tbt udp group 230.1.7.45 : 7771 from quote server success.
+[19:12:29.797.411][34157][INFO][XTP:0]Receive ob udp group 230.1.7.45 : 7771 from quote server success.
+[19:12:29.797.416][34157][INFO][XTP:0]Receive optmd udp group 230.1.7.45 : 7771 from quote server success.
+[19:12:29.797.474][34157][DEBUG][XTP:0]api_login_server session is NULL: 0.
+[19:12:29.797.481][34157][ERROR][XTP:10200000]你的XTP仿真账号 login to quote server 119.3.103.38:6002 failed.[OS:106]Transport endpoint is already connected[xtp_quote_private_api.cpp:1015][XTP:1]user doesn't exist.[OS:106]Transport endpoint is already connected[xbase_login.cpp:368]
